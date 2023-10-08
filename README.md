@@ -21,3 +21,9 @@ Follow these steps to run the application:
    mvn spring-boot:run
 5. Run test:
    mvn test
+
+# Postman coallection
+
+  Assignment.postman_collection.json
+
+
