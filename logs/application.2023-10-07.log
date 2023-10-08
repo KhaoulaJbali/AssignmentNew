@@ -1,0 +1,1069 @@
+08:01:07.150 [main] INFO  c.e.a.AssignmentApplicationTests - Starting AssignmentApplicationTests using Java 17.0.5 on Khaoula with PID 28452 (started by jbeli in C:\Users\jbeli\eclipse-workspace\assignment.zip_expanded\assignment)
+08:01:07.156 [main] INFO  c.e.a.AssignmentApplicationTests - No active profile set, falling back to default profiles: default
+08:01:08.931 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@66604e6f, org.springframework.security.web.context.SecurityContextPersistenceFilter@405a2c7b, org.springframework.security.web.header.HeaderWriterFilter@27d3a440, org.springframework.security.web.authentication.logout.LogoutFilter@7eeb8139, org.springframework.security.web.session.ConcurrentSessionFilter@358ebd61, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@42d060f1, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@56e92cdf, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@2810618f, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@4f944ff5, org.springframework.security.web.session.SessionManagementFilter@67feb5d0, org.springframework.security.web.access.ExceptionTranslationFilter@2d908f18, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@7ca802e3]
+08:01:09.895 [main] INFO  c.e.a.AssignmentApplicationTests - Started AssignmentApplicationTests in 3.3 seconds (JVM running for 8.006)
+08:01:10.012 [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+08:01:10.012 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+08:01:10.013 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 1 ms
+08:01:10.154 [main] INFO  c.e.a.controller.LoginController - User logged in successfully
+08:02:33.413 [main] INFO  c.e.a.AssignmentApplicationTests - Starting AssignmentApplicationTests using Java 17.0.5 on Khaoula with PID 1904 (started by jbeli in C:\Users\jbeli\eclipse-workspace\assignment.zip_expanded\assignment)
+08:02:33.415 [main] INFO  c.e.a.AssignmentApplicationTests - No active profile set, falling back to default profiles: default
+08:02:35.249 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@6cdadc3, org.springframework.security.web.context.SecurityContextPersistenceFilter@c5a4358, org.springframework.security.web.header.HeaderWriterFilter@7eeb8139, org.springframework.security.web.authentication.logout.LogoutFilter@6bcf2683, org.springframework.security.web.session.ConcurrentSessionFilter@52a2c66, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@7b4b2dcd, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@72b7eb06, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@673e239b, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@3a9bd6c7, org.springframework.security.web.session.SessionManagementFilter@128403d8, org.springframework.security.web.access.ExceptionTranslationFilter@63b15742, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@4bea0314]
+08:02:36.218 [main] INFO  c.e.a.AssignmentApplicationTests - Started AssignmentApplicationTests in 3.294 seconds (JVM running for 7.112)
+08:08:48.985 [main] INFO  c.e.a.AssignmentApplicationTests - Starting AssignmentApplicationTests using Java 17.0.5 on Khaoula with PID 15708 (started by jbeli in C:\Users\jbeli\eclipse-workspace\assignment.zip_expanded\assignment)
+08:08:48.987 [main] INFO  c.e.a.AssignmentApplicationTests - No active profile set, falling back to default profiles: default
+08:08:50.864 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@45e68fac, org.springframework.security.web.context.SecurityContextPersistenceFilter@193c810, org.springframework.security.web.header.HeaderWriterFilter@1d0acb8f, org.springframework.security.web.authentication.logout.LogoutFilter@75c30a4f, org.springframework.security.web.session.ConcurrentSessionFilter@13d1653, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@67b2c8bb, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@6c0bf8f4, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@25093079, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@5fb0a09e, org.springframework.security.web.session.SessionManagementFilter@1b83fac3, org.springframework.security.web.access.ExceptionTranslationFilter@b867869, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@1e4bf55b]
+08:08:51.854 [main] INFO  c.e.a.AssignmentApplicationTests - Started AssignmentApplicationTests in 3.598 seconds (JVM running for 5.754)
+08:08:52.905 [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+08:08:52.905 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+08:08:52.905 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+08:08:53.076 [main] INFO  c.e.a.controller.LoginController - User logged in successfully
+08:09:55.930 [main] INFO  c.e.a.AssignmentApplicationTests - Starting AssignmentApplicationTests using Java 17.0.8 on Khaoula with PID 21888 (started by jbeli in C:\Users\jbeli\eclipse-workspace\assignment.zip_expanded\assignment)
+08:09:55.932 [main] INFO  c.e.a.AssignmentApplicationTests - No active profile set, falling back to default profiles: default
+08:09:57.925 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@4e53c6ef, org.springframework.security.web.context.SecurityContextPersistenceFilter@1e4b9592, org.springframework.security.web.header.HeaderWriterFilter@291522f1, org.springframework.security.web.authentication.logout.LogoutFilter@7e24a2e2, org.springframework.security.web.session.ConcurrentSessionFilter@c8ed958, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@3c1d6ef0, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@75f446df, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@2d2fe68a, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@6164b3a2, org.springframework.security.web.session.SessionManagementFilter@4bc39640, org.springframework.security.web.access.ExceptionTranslationFilter@62ba3045, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@2daa5092]
+08:09:58.891 [main] INFO  c.e.a.AssignmentApplicationTests - Started AssignmentApplicationTests in 3.592 seconds (JVM running for 5.52)
+08:09:59.769 [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+08:09:59.769 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+08:09:59.770 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+08:09:59.939 [main] INFO  c.e.a.controller.LoginController - User logged in successfully
+08:17:27.438 [main] INFO  c.e.a.AssignmentApplicationTest - Starting AssignmentApplicationTest using Java 17.0.5 on Khaoula with PID 25384 (started by jbeli in C:\Users\jbeli\eclipse-workspace\assignment.zip_expanded\assignment)
+08:17:27.439 [main] INFO  c.e.a.AssignmentApplicationTest - No active profile set, falling back to default profiles: default
+08:17:29.535 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@1067192a, org.springframework.security.web.context.SecurityContextPersistenceFilter@2dc72c0c, org.springframework.security.web.header.HeaderWriterFilter@1d77d9c6, org.springframework.security.web.authentication.logout.LogoutFilter@12d28106, org.springframework.security.web.session.ConcurrentSessionFilter@1e284d90, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@2a045e85, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@7a25f8ee, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@d8cece4, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@3f7f9d3f, org.springframework.security.web.session.SessionManagementFilter@538d2308, org.springframework.security.web.access.ExceptionTranslationFilter@43d2c8e3, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@396f3bf2]
+08:17:30.508 [main] INFO  c.e.a.AssignmentApplicationTest - Started AssignmentApplicationTest in 3.704 seconds (JVM running for 5.838)
+08:17:31.619 [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+08:17:31.620 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+08:17:31.620 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+08:17:31.834 [main] INFO  c.e.a.controller.LoginController - User logged in successfully
+08:19:35.255 [main] INFO  c.e.a.AssignmentApplicationTest - Starting AssignmentApplicationTest using Java 17.0.5 on Khaoula with PID 3936 (started by jbeli in C:\Users\jbeli\eclipse-workspace\assignment.zip_expanded\assignment)
+08:19:35.256 [main] INFO  c.e.a.AssignmentApplicationTest - No active profile set, falling back to default profiles: default
+08:19:37.409 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@1067192a, org.springframework.security.web.context.SecurityContextPersistenceFilter@2dc72c0c, org.springframework.security.web.header.HeaderWriterFilter@1d77d9c6, org.springframework.security.web.authentication.logout.LogoutFilter@12d28106, org.springframework.security.web.session.ConcurrentSessionFilter@1e284d90, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@2a045e85, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@7a25f8ee, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@d8cece4, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@3f7f9d3f, org.springframework.security.web.session.SessionManagementFilter@538d2308, org.springframework.security.web.access.ExceptionTranslationFilter@43d2c8e3, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@396f3bf2]
+08:19:38.389 [main] INFO  c.e.a.AssignmentApplicationTest - Started AssignmentApplicationTest in 3.823 seconds (JVM running for 5.996)
+08:19:39.496 [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+08:19:39.496 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+08:19:39.496 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+08:19:39.700 [main] INFO  c.e.a.controller.LoginController - User logged in successfully
+08:21:47.254 [main] INFO  c.e.a.AssignmentApplicationTest - Starting AssignmentApplicationTest using Java 17.0.5 on Khaoula with PID 9568 (started by jbeli in C:\Users\jbeli\eclipse-workspace\assignment.zip_expanded\assignment)
+08:21:47.255 [main] INFO  c.e.a.AssignmentApplicationTest - No active profile set, falling back to default profiles: default
+08:21:49.326 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@77f95e19, org.springframework.security.web.context.SecurityContextPersistenceFilter@34893693, org.springframework.security.web.header.HeaderWriterFilter@471d6571, org.springframework.security.web.authentication.logout.LogoutFilter@1a3e8b68, org.springframework.security.web.session.ConcurrentSessionFilter@43778d6d, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@6a827b0c, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@456c53a, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@a5df98c, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@4607cbe2, org.springframework.security.web.session.SessionManagementFilter@5b11d0d8, org.springframework.security.web.access.ExceptionTranslationFilter@69f55ea, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@ccea4be]
+08:21:50.251 [main] INFO  c.e.a.AssignmentApplicationTest - Started AssignmentApplicationTest in 3.694 seconds (JVM running for 5.86)
+08:21:51.336 [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+08:21:51.336 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+08:21:51.337 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+08:21:51.527 [main] INFO  c.e.a.controller.LoginController - User logged in successfully
+08:27:02.024 [main] INFO  c.e.a.AssignmentApplicationTest - Starting AssignmentApplicationTest using Java 17.0.8 on Khaoula with PID 8136 (started by jbeli in C:\Users\jbeli\eclipse-workspace\assignment.zip_expanded\assignment)
+08:27:02.024 [main] INFO  c.e.a.AssignmentApplicationTest - No active profile set, falling back to default profiles: default
+08:27:04.163 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@3a286095, org.springframework.security.web.context.SecurityContextPersistenceFilter@2ddb6c71, org.springframework.security.web.header.HeaderWriterFilter@4c1fed69, org.springframework.security.web.authentication.logout.LogoutFilter@307e9c02, org.springframework.security.web.session.ConcurrentSessionFilter@28b16193, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@445f6aa7, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@29a5f924, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@20ddc780, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@26723525, org.springframework.security.web.session.SessionManagementFilter@434a72f2, org.springframework.security.web.access.ExceptionTranslationFilter@1fd77205, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@487bc2fe]
+08:27:05.190 [main] INFO  c.e.a.AssignmentApplicationTest - Started AssignmentApplicationTest in 3.676 seconds (JVM running for 5.79)
+08:27:06.351 [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+08:27:06.351 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+08:27:06.351 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+08:27:06.555 [main] INFO  c.e.a.controller.LoginController - User logged in successfully
+08:41:34.565 [main] INFO  c.e.a.AssignmentApplicationTest - Starting AssignmentApplicationTest using Java 17.0.5 on Khaoula with PID 6580 (started by jbeli in C:\Users\jbeli\eclipse-workspace\assignment.zip_expanded\assignment)
+08:41:34.567 [main] INFO  c.e.a.AssignmentApplicationTest - No active profile set, falling back to default profiles: default
+08:41:36.680 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@1e084a26, org.springframework.security.web.context.SecurityContextPersistenceFilter@55589ef5, org.springframework.security.web.header.HeaderWriterFilter@25af1dbf, org.springframework.security.web.authentication.logout.LogoutFilter@7a25f8ee, org.springframework.security.web.session.ConcurrentSessionFilter@88fc9cb, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@e8fb390, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@6731b6bd, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@352d3749, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@31c31fa6, org.springframework.security.web.session.SessionManagementFilter@711fbcef, org.springframework.security.web.access.ExceptionTranslationFilter@3857c5d5, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@6da86e98]
+08:41:37.690 [main] INFO  c.e.a.AssignmentApplicationTest - Started AssignmentApplicationTest in 3.808 seconds (JVM running for 5.895)
+08:41:38.860 [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+08:41:38.860 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+08:41:38.860 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+08:41:39.069 [main] INFO  c.e.a.controller.LoginController - User logged in successfully
+08:44:22.312 [main] INFO  c.e.a.AssignmentApplicationTest - Starting AssignmentApplicationTest using Java 17.0.5 on Khaoula with PID 24212 (started by jbeli in C:\Users\jbeli\eclipse-workspace\assignment.zip_expanded\assignment)
+08:44:22.314 [main] INFO  c.e.a.AssignmentApplicationTest - No active profile set, falling back to default profiles: default
+08:44:24.528 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@7f36cd8f, org.springframework.security.web.context.SecurityContextPersistenceFilter@58fadccb, org.springframework.security.web.header.HeaderWriterFilter@244c0fbe, org.springframework.security.web.authentication.logout.LogoutFilter@4b99f2ed, org.springframework.security.web.session.ConcurrentSessionFilter@d827673, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@4ae435a3, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@8bb5c2a, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@12ebcdf6, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@20040c6e, org.springframework.security.web.session.SessionManagementFilter@511ad0dd, org.springframework.security.web.access.ExceptionTranslationFilter@363d29dd, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@7a05cdc8]
+08:44:25.523 [main] INFO  c.e.a.AssignmentApplicationTest - Started AssignmentApplicationTest in 3.916 seconds (JVM running for 6.086)
+08:44:26.602 [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+08:44:26.602 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+08:44:26.603 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 1 ms
+08:44:26.834 [main] INFO  c.e.a.controller.LoginController - User logged in successfully
+08:47:35.760 [main] INFO  c.e.a.AssignmentApplicationTest - Starting AssignmentApplicationTest using Java 17.0.5 on Khaoula with PID 21128 (started by jbeli in C:\Users\jbeli\eclipse-workspace\assignment.zip_expanded\assignment)
+08:47:35.768 [main] INFO  c.e.a.AssignmentApplicationTest - No active profile set, falling back to default profiles: default
+08:47:37.989 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@7f36cd8f, org.springframework.security.web.context.SecurityContextPersistenceFilter@58fadccb, org.springframework.security.web.header.HeaderWriterFilter@244c0fbe, org.springframework.security.web.authentication.logout.LogoutFilter@4b99f2ed, org.springframework.security.web.session.ConcurrentSessionFilter@d827673, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@4ae435a3, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@8bb5c2a, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@12ebcdf6, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@20040c6e, org.springframework.security.web.session.SessionManagementFilter@511ad0dd, org.springframework.security.web.access.ExceptionTranslationFilter@363d29dd, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@7a05cdc8]
+08:47:39.040 [main] INFO  c.e.a.AssignmentApplicationTest - Started AssignmentApplicationTest in 3.952 seconds (JVM running for 6.173)
+08:47:40.167 [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+08:47:40.167 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+08:47:40.167 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+08:47:40.385 [main] INFO  c.e.a.controller.LoginController - User logged in successfully
+08:50:59.980 [main] INFO  c.e.a.AssignmentApplicationTest - Starting AssignmentApplicationTest using Java 17.0.5 on Khaoula with PID 18692 (started by jbeli in C:\Users\jbeli\eclipse-workspace\assignment.zip_expanded\assignment)
+08:50:59.981 [main] INFO  c.e.a.AssignmentApplicationTest - No active profile set, falling back to default profiles: default
+08:51:02.210 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@65dafe50, org.springframework.security.web.context.SecurityContextPersistenceFilter@1e65c4d, org.springframework.security.web.header.HeaderWriterFilter@2da8ed80, org.springframework.security.web.authentication.logout.LogoutFilter@3bf4b018, org.springframework.security.web.session.ConcurrentSessionFilter@1d77d9c6, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@1237aa73, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@61a17f3, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@4b99f2ed, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@29b2a94c, org.springframework.security.web.session.SessionManagementFilter@d15f031, org.springframework.security.web.access.ExceptionTranslationFilter@2284058a, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@25630ede]
+08:51:03.230 [main] INFO  c.e.a.AssignmentApplicationTest - Started AssignmentApplicationTest in 3.937 seconds (JVM running for 6.047)
+08:51:04.353 [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+08:51:04.354 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+08:51:04.354 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+08:51:04.619 [main] INFO  c.e.a.controller.LoginController - User logged in successfully
+08:52:32.663 [main] INFO  c.e.a.AssignmentApplicationTest - Starting AssignmentApplicationTest using Java 17.0.5 on Khaoula with PID 6688 (started by jbeli in C:\Users\jbeli\eclipse-workspace\assignment.zip_expanded\assignment)
+08:52:32.665 [main] INFO  c.e.a.AssignmentApplicationTest - No active profile set, falling back to default profiles: default
+08:52:34.563 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@4cbd17b3, org.springframework.security.web.context.SecurityContextPersistenceFilter@5935eb9c, org.springframework.security.web.header.HeaderWriterFilter@34893693, org.springframework.security.web.authentication.logout.LogoutFilter@43e9a8a2, org.springframework.security.web.session.ConcurrentSessionFilter@793248d, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@3d5e3f58, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@3d0697da, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@fe337, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@3a5c6009, org.springframework.security.web.session.SessionManagementFilter@75693526, org.springframework.security.web.access.ExceptionTranslationFilter@511ad0dd, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@6956081d]
+08:52:35.600 [main] INFO  c.e.a.AssignmentApplicationTest - Started AssignmentApplicationTest in 3.632 seconds (JVM running for 5.818)
+08:52:36.653 [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+08:52:36.654 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+08:52:36.654 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+08:52:36.821 [main] INFO  c.e.a.controller.LoginController - User logged in successfully
+08:57:00.041 [main] INFO  c.e.a.AssignmentApplicationTest - Starting AssignmentApplicationTest using Java 17.0.5 on Khaoula with PID 22124 (started by jbeli in C:\Users\jbeli\eclipse-workspace\assignment.zip_expanded\assignment)
+08:57:00.042 [main] INFO  c.e.a.AssignmentApplicationTest - No active profile set, falling back to default profiles: default
+08:57:01.885 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@cbea0df, org.springframework.security.web.context.SecurityContextPersistenceFilter@43d2c8e3, org.springframework.security.web.header.HeaderWriterFilter@1188e08b, org.springframework.security.web.authentication.logout.LogoutFilter@481f698f, org.springframework.security.web.session.ConcurrentSessionFilter@7daf167, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@6a9a6a0c, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@a5df98c, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@88fc9cb, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@396f3bf2, org.springframework.security.web.session.SessionManagementFilter@4cd7128, org.springframework.security.web.access.ExceptionTranslationFilter@40f77135, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@174aabb2]
+08:57:02.969 [main] INFO  c.e.a.AssignmentApplicationTest - Started AssignmentApplicationTest in 3.64 seconds (JVM running for 5.836)
+08:57:03.997 [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+08:57:03.998 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+08:57:03.998 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+08:57:04.155 [main] INFO  c.e.a.controller.LoginController - User logged in successfully
+09:01:23.736 [main] INFO  c.e.a.AssignmentApplicationTest - Starting AssignmentApplicationTest using Java 17.0.5 on Khaoula with PID 14012 (started by jbeli in C:\Users\jbeli\eclipse-workspace\assignment.zip_expanded\assignment)
+09:01:23.737 [main] INFO  c.e.a.AssignmentApplicationTest - No active profile set, falling back to default profiles: default
+09:01:25.956 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@4131f6db, org.springframework.security.web.context.SecurityContextPersistenceFilter@39a1c200, org.springframework.security.web.header.HeaderWriterFilter@5cf39df6, org.springframework.security.web.authentication.logout.LogoutFilter@6894436e, org.springframework.security.web.session.ConcurrentSessionFilter@6a9d572, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@701bd6e8, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@2af1bf5a, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@793248d, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@5cdf61d, org.springframework.security.web.session.SessionManagementFilter@6df4d8f1, org.springframework.security.web.access.ExceptionTranslationFilter@77a1df4d, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@3b1a3125]
+09:01:26.949 [main] INFO  c.e.a.AssignmentApplicationTest - Started AssignmentApplicationTest in 3.838 seconds (JVM running for 6.087)
+09:01:28.058 [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+09:01:28.059 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+09:01:28.059 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+09:01:28.232 [main] INFO  c.e.a.controller.LoginController - User logged in successfully
+09:03:54.891 [main] INFO  c.e.a.AssignmentApplicationTest - Starting AssignmentApplicationTest using Java 17.0.5 on Khaoula with PID 29272 (started by jbeli in C:\Users\jbeli\eclipse-workspace\assignment.zip_expanded\assignment)
+09:03:54.892 [main] INFO  c.e.a.AssignmentApplicationTest - No active profile set, falling back to default profiles: default
+09:03:56.955 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@7f36cd8f, org.springframework.security.web.context.SecurityContextPersistenceFilter@58fadccb, org.springframework.security.web.header.HeaderWriterFilter@244c0fbe, org.springframework.security.web.authentication.logout.LogoutFilter@4b99f2ed, org.springframework.security.web.session.ConcurrentSessionFilter@d827673, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@4ae435a3, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@8bb5c2a, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@12ebcdf6, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@20040c6e, org.springframework.security.web.session.SessionManagementFilter@511ad0dd, org.springframework.security.web.access.ExceptionTranslationFilter@363d29dd, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@7a05cdc8]
+09:03:57.971 [main] INFO  c.e.a.AssignmentApplicationTest - Started AssignmentApplicationTest in 3.758 seconds (JVM running for 6.106)
+09:03:59.020 [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+09:03:59.020 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+09:03:59.020 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+09:03:59.218 [main] INFO  c.e.a.controller.LoginController - User logged in successfully
+09:05:07.788 [main] INFO  c.e.a.AssignmentApplicationTest - Starting AssignmentApplicationTest using Java 17.0.5 on Khaoula with PID 29188 (started by jbeli in C:\Users\jbeli\eclipse-workspace\assignment.zip_expanded\assignment)
+09:05:07.796 [main] INFO  c.e.a.AssignmentApplicationTest - No active profile set, falling back to default profiles: default
+09:05:09.816 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@e8fb390, org.springframework.security.web.context.SecurityContextPersistenceFilter@75693526, org.springframework.security.web.header.HeaderWriterFilter@5b11d0d8, org.springframework.security.web.authentication.logout.LogoutFilter@1a5c0b8, org.springframework.security.web.session.ConcurrentSessionFilter@8bb5c2a, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@70fcd3e5, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@160d68b8, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@23a9400c, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@4131f6db, org.springframework.security.web.session.SessionManagementFilter@7daf167, org.springframework.security.web.access.ExceptionTranslationFilter@5692863, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@44f88149]
+09:05:10.838 [main] INFO  c.e.a.AssignmentApplicationTest - Started AssignmentApplicationTest in 3.747 seconds (JVM running for 5.973)
+09:05:11.960 [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+09:05:11.960 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+09:05:11.961 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 1 ms
+09:05:12.178 [main] INFO  c.e.a.controller.LoginController - User logged in successfully
+09:06:53.052 [main] INFO  c.e.a.AssignmentApplicationTest - Starting AssignmentApplicationTest using Java 17.0.5 on Khaoula with PID 14452 (started by jbeli in C:\Users\jbeli\eclipse-workspace\assignment.zip_expanded\assignment)
+09:06:53.054 [main] INFO  c.e.a.AssignmentApplicationTest - No active profile set, falling back to default profiles: default
+09:06:55.091 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@29b2a94c, org.springframework.security.web.context.SecurityContextPersistenceFilter@6b888692, org.springframework.security.web.header.HeaderWriterFilter@d827673, org.springframework.security.web.authentication.logout.LogoutFilter@d8cece4, org.springframework.security.web.session.ConcurrentSessionFilter@2c5b4b91, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@1dbb9a4a, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@352d3749, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@723081a2, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@108d59b6, org.springframework.security.web.session.SessionManagementFilter@45dfb6a4, org.springframework.security.web.access.ExceptionTranslationFilter@5b11d0d8, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@399acce3]
+09:06:56.107 [main] INFO  c.e.a.AssignmentApplicationTest - Started AssignmentApplicationTest in 3.612 seconds (JVM running for 5.838)
+09:06:57.225 [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+09:06:57.226 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+09:06:57.226 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+09:06:57.408 [main] INFO  c.e.a.controller.LoginController - User logged in successfully
+09:18:54.426 [main] INFO  c.e.a.AssignmentApplicationTest - Starting AssignmentApplicationTest using Java 17.0.8 on Khaoula with PID 19944 (started by jbeli in C:\Users\jbeli\eclipse-workspace\assignment.zip_expanded\assignment)
+09:18:54.426 [main] INFO  c.e.a.AssignmentApplicationTest - No active profile set, falling back to default profiles: default
+09:18:56.349 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@33d08a24, org.springframework.security.web.context.SecurityContextPersistenceFilter@159a0f0e, org.springframework.security.web.header.HeaderWriterFilter@23adbd6b, org.springframework.security.web.authentication.logout.LogoutFilter@951461a, org.springframework.security.web.session.ConcurrentSessionFilter@743b7025, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@4cf1bd4a, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@29f114e0, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@22f0e329, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@255b84a9, org.springframework.security.web.session.SessionManagementFilter@36a8ebca, org.springframework.security.web.access.ExceptionTranslationFilter@402d76c7, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@5980e29f]
+09:18:57.327 [main] INFO  c.e.a.AssignmentApplicationTest - Started AssignmentApplicationTest in 3.63 seconds (JVM running for 5.491)
+09:18:58.384 [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+09:18:58.384 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+09:18:58.384 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+09:18:58.589 [main] INFO  c.e.a.controller.LoginController - User logged in successfully
+09:20:29.660 [main] INFO  c.e.a.AssignmentApplicationTest - Starting AssignmentApplicationTest using Java 17.0.8 on Khaoula with PID 25516 (started by jbeli in C:\Users\jbeli\eclipse-workspace\assignment.zip_expanded\assignment)
+09:20:29.662 [main] INFO  c.e.a.AssignmentApplicationTest - No active profile set, falling back to default profiles: default
+09:20:31.913 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@395abe85, org.springframework.security.web.context.SecurityContextPersistenceFilter@1c80f8dd, org.springframework.security.web.header.HeaderWriterFilter@7cc842b0, org.springframework.security.web.authentication.logout.LogoutFilter@401d83ce, org.springframework.security.web.session.ConcurrentSessionFilter@4dc5b887, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@10b7b5f0, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@202fd4c4, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@3eadfbbb, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@55849272, org.springframework.security.web.session.SessionManagementFilter@29f114e0, org.springframework.security.web.access.ExceptionTranslationFilter@949f0d, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@60317de8]
+09:20:33.011 [main] INFO  c.e.a.AssignmentApplicationTest - Started AssignmentApplicationTest in 4.049 seconds (JVM running for 6.0)
+09:20:34.360 [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+09:20:34.360 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+09:20:34.360 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+09:20:34.564 [main] INFO  c.e.a.controller.LoginController - User logged in successfully
+09:22:10.276 [main] INFO  c.e.a.AssignmentApplicationTest - Starting AssignmentApplicationTest using Java 17.0.8 on Khaoula with PID 24960 (started by jbeli in C:\Users\jbeli\eclipse-workspace\assignment.zip_expanded\assignment)
+09:22:10.288 [main] INFO  c.e.a.AssignmentApplicationTest - No active profile set, falling back to default profiles: default
+09:22:12.520 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@395abe85, org.springframework.security.web.context.SecurityContextPersistenceFilter@1c80f8dd, org.springframework.security.web.header.HeaderWriterFilter@7cc842b0, org.springframework.security.web.authentication.logout.LogoutFilter@401d83ce, org.springframework.security.web.session.ConcurrentSessionFilter@4dc5b887, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@10b7b5f0, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@202fd4c4, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@3eadfbbb, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@55849272, org.springframework.security.web.session.SessionManagementFilter@29f114e0, org.springframework.security.web.access.ExceptionTranslationFilter@949f0d, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@60317de8]
+09:22:13.587 [main] INFO  c.e.a.AssignmentApplicationTest - Started AssignmentApplicationTest in 3.988 seconds (JVM running for 6.091)
+09:22:14.826 [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+09:22:14.826 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+09:22:14.826 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+09:22:15.015 [main] INFO  c.e.a.controller.LoginController - User logged in successfully
+09:23:07.347 [main] INFO  c.e.a.AssignmentApplicationTest - Starting AssignmentApplicationTest using Java 17.0.8 on Khaoula with PID 27904 (started by jbeli in C:\Users\jbeli\eclipse-workspace\assignment.zip_expanded\assignment)
+09:23:07.347 [main] INFO  c.e.a.AssignmentApplicationTest - No active profile set, falling back to default profiles: default
+09:23:09.607 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@395abe85, org.springframework.security.web.context.SecurityContextPersistenceFilter@1c80f8dd, org.springframework.security.web.header.HeaderWriterFilter@7cc842b0, org.springframework.security.web.authentication.logout.LogoutFilter@401d83ce, org.springframework.security.web.session.ConcurrentSessionFilter@4dc5b887, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@10b7b5f0, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@202fd4c4, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@3eadfbbb, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@55849272, org.springframework.security.web.session.SessionManagementFilter@29f114e0, org.springframework.security.web.access.ExceptionTranslationFilter@949f0d, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@60317de8]
+09:23:10.611 [main] INFO  c.e.a.AssignmentApplicationTest - Started AssignmentApplicationTest in 3.88 seconds (JVM running for 5.852)
+09:23:11.709 [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+09:23:11.709 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+09:23:11.709 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+09:23:11.913 [main] INFO  c.e.a.controller.LoginController - User logged in successfully
+09:56:59.312 [restartedMain] INFO  c.e.assignment.AssignmentApplication - Starting AssignmentApplication using Java 17.0.5 on Khaoula with PID 2872 (C:\Users\jbeli\eclipse-workspace\assignment.zip_expanded\assignment\target\classes started by jbeli in C:\Users\jbeli\eclipse-workspace\assignment.zip_expanded\assignment)
+09:56:59.313 [restartedMain] INFO  c.e.assignment.AssignmentApplication - No active profile set, falling back to default profiles: default
+09:56:59.349 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+09:56:59.349 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+09:56:59.987 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+09:56:59.994 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+09:56:59.995 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+09:56:59.995 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+09:57:00.059 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+09:57:00.059 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 709 ms
+09:57:00.257 [restartedMain] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@3743c154, org.springframework.security.web.context.SecurityContextPersistenceFilter@247993ba, org.springframework.security.web.header.HeaderWriterFilter@607b021e, org.springframework.security.web.authentication.logout.LogoutFilter@3cfc2d2e, org.springframework.security.web.session.ConcurrentSessionFilter@6bb43da5, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@4c8c314a, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@7412e3a2, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@474cbaa8, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@6944cec1, org.springframework.security.web.session.SessionManagementFilter@7f4d24b, org.springframework.security.web.access.ExceptionTranslationFilter@11b56a03, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@64a2a94e]
+09:57:00.424 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+09:57:00.434 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8082"]
+09:57:00.464 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path ''
+09:57:00.472 [restartedMain] INFO  c.e.assignment.AssignmentApplication - Started AssignmentApplication in 1.475 seconds (JVM running for 2.16)
+09:57:16.327 [http-nio-8082-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+09:57:16.328 [http-nio-8082-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+09:57:16.328 [http-nio-8082-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+09:57:16.695 [http-nio-8082-exec-2] INFO  c.e.a.controller.LoginController - User logged in successfully
+09:57:44.693 [http-nio-8082-exec-7] INFO  c.e.a.controller.LoginController - User logged in successfully
+09:57:57.596 [http-nio-8082-exec-9] WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.util.Date'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [@org.springframework.web.bind.annotation.RequestParam @org.springframework.format.annotation.DateTimeFormat java.util.Date] for value '1201907'; nested exception is java.lang.IllegalArgumentException: Parse attempt failed for value [1201907]]
+09:58:29.083 [http-nio-8082-exec-1] WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.util.Date'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [@org.springframework.web.bind.annotation.RequestParam @org.springframework.format.annotation.DateTimeFormat java.util.Date] for value '1201907'; nested exception is java.lang.IllegalArgumentException: Parse attempt failed for value [1201907]]
+10:18:26.046 [restartedMain] INFO  c.e.assignment.AssignmentApplication - Starting AssignmentApplication using Java 17.0.5 on Khaoula with PID 2872 (C:\Users\jbeli\eclipse-workspace\assignment.zip_expanded\assignment\target\classes started by jbeli in C:\Users\jbeli\eclipse-workspace\assignment.zip_expanded\assignment)
+10:18:26.046 [restartedMain] INFO  c.e.assignment.AssignmentApplication - No active profile set, falling back to default profiles: default
+10:18:26.393 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+10:18:26.393 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+10:18:26.393 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+10:18:26.393 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+10:18:26.425 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+10:18:26.425 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 364 ms
+10:18:26.488 [restartedMain] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@4e662ab5, org.springframework.security.web.context.SecurityContextPersistenceFilter@7c32b3da, org.springframework.security.web.header.HeaderWriterFilter@53213b55, org.springframework.security.web.authentication.logout.LogoutFilter@526ba238, org.springframework.security.web.session.ConcurrentSessionFilter@63aa2a8a, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@401eac35, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@2693d49a, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@9e2ef28, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@4bb8ce4a, org.springframework.security.web.session.SessionManagementFilter@3892e981, org.springframework.security.web.access.ExceptionTranslationFilter@2ad6aa37, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@10a2c685]
+10:18:26.566 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+10:18:26.566 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8082"]
+10:18:26.566 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path ''
+10:18:26.581 [restartedMain] INFO  c.e.assignment.AssignmentApplication - Started AssignmentApplication in 0.578 seconds (JVM running for 1288.274)
+10:18:26.588 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+10:18:28.067 [restartedMain] INFO  c.e.assignment.AssignmentApplication - Starting AssignmentApplication using Java 17.0.5 on Khaoula with PID 2872 (C:\Users\jbeli\eclipse-workspace\assignment.zip_expanded\assignment\target\classes started by jbeli in C:\Users\jbeli\eclipse-workspace\assignment.zip_expanded\assignment)
+10:18:28.067 [restartedMain] INFO  c.e.assignment.AssignmentApplication - No active profile set, falling back to default profiles: default
+10:18:28.317 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+10:18:28.317 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+10:18:28.317 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+10:18:28.317 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+10:18:28.332 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+10:18:28.332 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 250 ms
+10:18:28.379 [restartedMain] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@50bc8d62, org.springframework.security.web.context.SecurityContextPersistenceFilter@42578454, org.springframework.security.web.header.HeaderWriterFilter@223ec7ef, org.springframework.security.web.authentication.logout.LogoutFilter@66f52297, org.springframework.security.web.session.ConcurrentSessionFilter@5c20487a, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@47b7678f, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@1682224e, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@464393d2, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@42af0366, org.springframework.security.web.session.SessionManagementFilter@6686d2ee, org.springframework.security.web.access.ExceptionTranslationFilter@56991e14, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@14b149ef]
+10:18:28.427 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+10:18:28.427 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8082"]
+10:18:28.442 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path ''
+10:18:28.442 [restartedMain] INFO  c.e.assignment.AssignmentApplication - Started AssignmentApplication in 0.398 seconds (JVM running for 1290.135)
+10:18:28.442 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+10:18:28.829 [main] INFO  c.e.a.AssignmentApplicationTest - Starting AssignmentApplicationTest using Java 17.0.8 on Khaoula with PID 23756 (started by jbeli in C:\Users\jbeli\eclipse-workspace\assignment.zip_expanded\assignment)
+10:18:28.829 [main] INFO  c.e.a.AssignmentApplicationTest - No active profile set, falling back to default profiles: default
+10:18:30.253 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@1a59500b, org.springframework.security.web.context.SecurityContextPersistenceFilter@4198921f, org.springframework.security.web.header.HeaderWriterFilter@38326fd5, org.springframework.security.web.authentication.logout.LogoutFilter@6889e714, org.springframework.security.web.session.ConcurrentSessionFilter@2c955487, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@389a9ff6, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@33a58fcb, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@7cc842b0, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@4e3c0627, org.springframework.security.web.session.SessionManagementFilter@3ca5da54, org.springframework.security.web.access.ExceptionTranslationFilter@233d2b76, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@638e8194]
+10:18:30.865 [main] INFO  c.e.a.AssignmentApplicationTest - Started AssignmentApplicationTest in 2.493 seconds (JVM running for 3.91)
+10:18:31.650 [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+10:18:31.650 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+10:18:31.650 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+10:18:31.760 [main] INFO  c.e.a.controller.LoginController - User logged in successfully
+10:20:24.720 [restartedMain] INFO  c.e.assignment.AssignmentApplication - Starting AssignmentApplication using Java 17.0.5 on Khaoula with PID 2872 (C:\Users\jbeli\eclipse-workspace\assignment.zip_expanded\assignment\target\classes started by jbeli in C:\Users\jbeli\eclipse-workspace\assignment.zip_expanded\assignment)
+10:20:24.721 [restartedMain] INFO  c.e.assignment.AssignmentApplication - No active profile set, falling back to default profiles: default
+10:20:25.674 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+10:20:25.677 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+10:20:25.677 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+10:20:25.677 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+10:20:25.718 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+10:20:25.718 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 983 ms
+10:20:26.118 [restartedMain] INFO  o.s.b.a.s.s.UserDetailsServiceAutoConfiguration - 
+
+Using generated security password: 497b320f-674d-47b4-bb50-5422a4ab3a22
+
+10:20:26.151 [restartedMain] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@24448eac, org.springframework.security.web.context.SecurityContextPersistenceFilter@11ea1518, org.springframework.security.web.header.HeaderWriterFilter@5f939433, org.springframework.security.web.csrf.CsrfFilter@4e7e3552, org.springframework.security.web.authentication.logout.LogoutFilter@5785a3b8, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@4fa5ecb1, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@59e23543, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@25d029c7, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@6eeab7de, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@3f3e12b4, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@7c4f3b6c, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@457089a8, org.springframework.security.web.session.SessionManagementFilter@2e81613f, org.springframework.security.web.access.ExceptionTranslationFilter@26011f7e, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@1d639ed5]
+10:20:26.177 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+10:20:26.211 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8082"]
+10:20:26.225 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path ''
+10:20:26.234 [restartedMain] INFO  c.e.assignment.AssignmentApplication - Started AssignmentApplication in 1.599 seconds (JVM running for 1407.922)
+10:20:26.269 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation delta:
+
+
+==========================
+CONDITION EVALUATION DELTA
+==========================
+
+
+Positive matches:
+-----------------
+
+   SpringBootWebSecurityConfiguration matched:
+      - found 'session' scope (OnWebApplicationCondition)
+      - AllNestedConditions 2 matched 0 did not; NestedCondition on DefaultWebSecurityCondition.Beans @ConditionalOnMissingBean (types: org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter,org.springframework.security.web.SecurityFilterChain; SearchStrategy: all) did not find any beans; NestedCondition on DefaultWebSecurityCondition.Classes @ConditionalOnClass found required classes 'org.springframework.security.web.SecurityFilterChain', 'org.springframework.security.config.annotation.web.builders.HttpSecurity' (DefaultWebSecurityCondition)
+
+   UserDetailsServiceAutoConfiguration matched:
+      - @ConditionalOnClass found required class 'org.springframework.security.authentication.AuthenticationManager' (OnClassCondition)
+      - @ConditionalOnBean (types: org.springframework.security.config.annotation.ObjectPostProcessor; SearchStrategy: all) found bean 'objectPostProcessor'; @ConditionalOnMissingBean (types: org.springframework.security.authentication.AuthenticationManager,org.springframework.security.authentication.AuthenticationProvider,org.springframework.security.core.userdetails.UserDetailsService,org.springframework.security.authentication.AuthenticationManagerResolver,org.springframework.security.oauth2.jwt.JwtDecoder,org.springframework.security.oauth2.server.resource.introspection.OpaqueTokenIntrospector,org.springframework.security.oauth2.client.registration.ClientRegistrationRepository; SearchStrategy: all) did not find any beans (OnBeanCondition)
+
+   WebSecurityEnablerConfiguration matched:
+      - @ConditionalOnClass found required class 'org.springframework.security.config.annotation.web.configuration.EnableWebSecurity' (OnClassCondition)
+      - found 'session' scope (OnWebApplicationCondition)
+      - @ConditionalOnMissingBean (names: springSecurityFilterChain; SearchStrategy: all) did not find any beans (OnBeanCondition)
+
+
+Negative matches:
+-----------------
+
+    None
+
+
+Exclusions:
+-----------
+
+    None
+
+
+Unconditional classes:
+----------------------
+
+    None
+
+
+
+10:20:27.994 [restartedMain] INFO  c.e.assignment.AssignmentApplication - Starting AssignmentApplication using Java 17.0.5 on Khaoula with PID 2872 (C:\Users\jbeli\eclipse-workspace\assignment.zip_expanded\assignment\target\classes started by jbeli in C:\Users\jbeli\eclipse-workspace\assignment.zip_expanded\assignment)
+10:20:27.994 [restartedMain] INFO  c.e.assignment.AssignmentApplication - No active profile set, falling back to default profiles: default
+10:20:28.846 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+10:20:28.848 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+10:20:28.848 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+10:20:28.848 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+10:20:28.903 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+10:20:28.903 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 894 ms
+10:20:29.131 [restartedMain] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@4b44686f, org.springframework.security.web.context.SecurityContextPersistenceFilter@3d05d5c5, org.springframework.security.web.header.HeaderWriterFilter@37101f08, org.springframework.security.web.authentication.logout.LogoutFilter@674f9c6, org.springframework.security.web.session.ConcurrentSessionFilter@5f31114d, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@326fae0a, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@a5a7532, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@42207727, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@4772a333, org.springframework.security.web.session.SessionManagementFilter@279496f, org.springframework.security.web.access.ExceptionTranslationFilter@fdda177, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@2254a5ff]
+10:20:29.287 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+10:20:29.304 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8082"]
+10:20:29.310 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path ''
+10:20:29.325 [restartedMain] INFO  c.e.assignment.AssignmentApplication - Started AssignmentApplication in 1.421 seconds (JVM running for 1411.013)
+10:20:29.331 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation delta:
+
+
+==========================
+CONDITION EVALUATION DELTA
+==========================
+
+
+Positive matches:
+-----------------
+
+    None
+
+
+Negative matches:
+-----------------
+
+   SpringBootWebSecurityConfiguration:
+      Did not match:
+         - AllNestedConditions 1 matched 1 did not; NestedCondition on DefaultWebSecurityCondition.Beans @ConditionalOnMissingBean (types: org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter,org.springframework.security.web.SecurityFilterChain; SearchStrategy: all) found beans of type 'org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter' securityConfig; NestedCondition on DefaultWebSecurityCondition.Classes @ConditionalOnClass found required classes 'org.springframework.security.web.SecurityFilterChain', 'org.springframework.security.config.annotation.web.builders.HttpSecurity' (DefaultWebSecurityCondition)
+      Matched:
+         - found 'session' scope (OnWebApplicationCondition)
+
+   UserDetailsServiceAutoConfiguration:
+      Did not match:
+         - @ConditionalOnMissingBean (types: org.springframework.security.authentication.AuthenticationManager,org.springframework.security.authentication.AuthenticationProvider,org.springframework.security.core.userdetails.UserDetailsService,org.springframework.security.authentication.AuthenticationManagerResolver,org.springframework.security.oauth2.jwt.JwtDecoder,org.springframework.security.oauth2.server.resource.introspection.OpaqueTokenIntrospector,org.springframework.security.oauth2.client.registration.ClientRegistrationRepository; SearchStrategy: all) found beans of type 'org.springframework.security.authentication.AuthenticationManager' authenticationManagerBean and found beans of type 'org.springframework.security.core.userdetails.UserDetailsService' customUserDetailsService (OnBeanCondition)
+      Matched:
+         - @ConditionalOnClass found required class 'org.springframework.security.authentication.AuthenticationManager' (OnClassCondition)
+
+   WebSecurityEnablerConfiguration:
+      Did not match:
+         - @ConditionalOnMissingBean (names: springSecurityFilterChain; SearchStrategy: all) found beans named springSecurityFilterChain (OnBeanCondition)
+      Matched:
+         - @ConditionalOnClass found required class 'org.springframework.security.config.annotation.web.configuration.EnableWebSecurity' (OnClassCondition)
+         - found 'session' scope (OnWebApplicationCondition)
+
+
+Exclusions:
+-----------
+
+    None
+
+
+Unconditional classes:
+----------------------
+
+    None
+
+
+
+10:20:34.418 [main] INFO  c.e.a.AssignmentApplicationTest - Starting AssignmentApplicationTest using Java 17.0.8 on Khaoula with PID 2972 (started by jbeli in C:\Users\jbeli\eclipse-workspace\assignment.zip_expanded\assignment)
+10:20:34.421 [main] INFO  c.e.a.AssignmentApplicationTest - No active profile set, falling back to default profiles: default
+10:20:37.597 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@11a0c708, org.springframework.security.web.context.SecurityContextPersistenceFilter@3733b1f4, org.springframework.security.web.header.HeaderWriterFilter@3b9c05f, org.springframework.security.web.authentication.logout.LogoutFilter@51b2b3e6, org.springframework.security.web.session.ConcurrentSessionFilter@21fa19e4, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@ae5d544, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@743b7025, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@26caf4b6, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@30bfdcc5, org.springframework.security.web.session.SessionManagementFilter@38ae69f7, org.springframework.security.web.access.ExceptionTranslationFilter@4202bfe8, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@50eae15a]
+10:20:38.456 [main] INFO  c.e.a.AssignmentApplicationTest - Started AssignmentApplicationTest in 5.295 seconds (JVM running for 8.748)
+10:20:39.635 [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+10:20:39.651 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+10:20:39.651 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+10:20:39.839 [main] INFO  c.e.a.controller.LoginController - User logged in successfully
+10:26:59.475 [restartedMain] INFO  c.e.assignment.AssignmentApplication - Starting AssignmentApplication using Java 17.0.5 on Khaoula with PID 2872 (C:\Users\jbeli\eclipse-workspace\assignment.zip_expanded\assignment\target\classes started by jbeli in C:\Users\jbeli\eclipse-workspace\assignment.zip_expanded\assignment)
+10:26:59.475 [restartedMain] INFO  c.e.assignment.AssignmentApplication - No active profile set, falling back to default profiles: default
+10:26:59.908 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+10:26:59.908 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+10:26:59.908 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+10:26:59.908 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+10:26:59.939 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+10:26:59.939 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 447 ms
+10:27:00.017 [restartedMain] INFO  o.s.b.a.s.s.UserDetailsServiceAutoConfiguration - 
+
+Using generated security password: 840717b2-753e-49c4-91cb-b060ab7e518f
+
+10:27:00.017 [restartedMain] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@2fe6f8d8, org.springframework.security.web.context.SecurityContextPersistenceFilter@856e25d, org.springframework.security.web.header.HeaderWriterFilter@535561f, org.springframework.security.web.csrf.CsrfFilter@e5252e8, org.springframework.security.web.authentication.logout.LogoutFilter@6ef9fd4d, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@42899541, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@63e37758, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@2478539e, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@118ef11a, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@2112683d, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@e3847ae, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@2a55f9cd, org.springframework.security.web.session.SessionManagementFilter@140f2726, org.springframework.security.web.access.ExceptionTranslationFilter@6559868c, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@668db301]
+10:27:00.035 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+10:27:00.049 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8082"]
+10:27:00.049 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path ''
+10:27:00.049 [restartedMain] INFO  c.e.assignment.AssignmentApplication - Started AssignmentApplication in 0.667 seconds (JVM running for 1801.748)
+10:27:00.049 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation delta:
+
+
+==========================
+CONDITION EVALUATION DELTA
+==========================
+
+
+Positive matches:
+-----------------
+
+   SpringBootWebSecurityConfiguration matched:
+      - found 'session' scope (OnWebApplicationCondition)
+      - AllNestedConditions 2 matched 0 did not; NestedCondition on DefaultWebSecurityCondition.Beans @ConditionalOnMissingBean (types: org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter,org.springframework.security.web.SecurityFilterChain; SearchStrategy: all) did not find any beans; NestedCondition on DefaultWebSecurityCondition.Classes @ConditionalOnClass found required classes 'org.springframework.security.web.SecurityFilterChain', 'org.springframework.security.config.annotation.web.builders.HttpSecurity' (DefaultWebSecurityCondition)
+
+   UserDetailsServiceAutoConfiguration matched:
+      - @ConditionalOnClass found required class 'org.springframework.security.authentication.AuthenticationManager' (OnClassCondition)
+      - @ConditionalOnBean (types: org.springframework.security.config.annotation.ObjectPostProcessor; SearchStrategy: all) found bean 'objectPostProcessor'; @ConditionalOnMissingBean (types: org.springframework.security.authentication.AuthenticationManager,org.springframework.security.authentication.AuthenticationProvider,org.springframework.security.core.userdetails.UserDetailsService,org.springframework.security.authentication.AuthenticationManagerResolver,org.springframework.security.oauth2.jwt.JwtDecoder,org.springframework.security.oauth2.server.resource.introspection.OpaqueTokenIntrospector,org.springframework.security.oauth2.client.registration.ClientRegistrationRepository; SearchStrategy: all) did not find any beans (OnBeanCondition)
+
+   WebSecurityEnablerConfiguration matched:
+      - @ConditionalOnClass found required class 'org.springframework.security.config.annotation.web.configuration.EnableWebSecurity' (OnClassCondition)
+      - found 'session' scope (OnWebApplicationCondition)
+      - @ConditionalOnMissingBean (names: springSecurityFilterChain; SearchStrategy: all) did not find any beans (OnBeanCondition)
+
+
+Negative matches:
+-----------------
+
+    None
+
+
+Exclusions:
+-----------
+
+    None
+
+
+Unconditional classes:
+----------------------
+
+    None
+
+
+
+10:27:02.232 [restartedMain] INFO  c.e.assignment.AssignmentApplication - Starting AssignmentApplication using Java 17.0.5 on Khaoula with PID 2872 (C:\Users\jbeli\eclipse-workspace\assignment.zip_expanded\assignment\target\classes started by jbeli in C:\Users\jbeli\eclipse-workspace\assignment.zip_expanded\assignment)
+10:27:02.233 [restartedMain] INFO  c.e.assignment.AssignmentApplication - No active profile set, falling back to default profiles: default
+10:27:02.801 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+10:27:02.801 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+10:27:02.801 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+10:27:02.801 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+10:27:02.817 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+10:27:02.817 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 575 ms
+10:27:02.900 [restartedMain] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@4f10f1fb, org.springframework.security.web.context.SecurityContextPersistenceFilter@38d447ff, org.springframework.security.web.header.HeaderWriterFilter@39c18d81, org.springframework.security.web.authentication.logout.LogoutFilter@241c74f6, org.springframework.security.web.session.ConcurrentSessionFilter@3b4af104, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@758b2a6, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@d4c78e1, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@52433ef6, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@14affd15, org.springframework.security.web.session.SessionManagementFilter@15a94f39, org.springframework.security.web.access.ExceptionTranslationFilter@61fc5c3e, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@4d493c56]
+10:27:02.970 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+10:27:02.970 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8082"]
+10:27:02.986 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path ''
+10:27:03.017 [restartedMain] INFO  c.e.assignment.AssignmentApplication - Started AssignmentApplication in 0.89 seconds (JVM running for 1804.715)
+10:27:03.037 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation delta:
+
+
+==========================
+CONDITION EVALUATION DELTA
+==========================
+
+
+Positive matches:
+-----------------
+
+    None
+
+
+Negative matches:
+-----------------
+
+   SpringBootWebSecurityConfiguration:
+      Did not match:
+         - AllNestedConditions 1 matched 1 did not; NestedCondition on DefaultWebSecurityCondition.Beans @ConditionalOnMissingBean (types: org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter,org.springframework.security.web.SecurityFilterChain; SearchStrategy: all) found beans of type 'org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter' securityConfig; NestedCondition on DefaultWebSecurityCondition.Classes @ConditionalOnClass found required classes 'org.springframework.security.web.SecurityFilterChain', 'org.springframework.security.config.annotation.web.builders.HttpSecurity' (DefaultWebSecurityCondition)
+      Matched:
+         - found 'session' scope (OnWebApplicationCondition)
+
+   UserDetailsServiceAutoConfiguration:
+      Did not match:
+         - @ConditionalOnMissingBean (types: org.springframework.security.authentication.AuthenticationManager,org.springframework.security.authentication.AuthenticationProvider,org.springframework.security.core.userdetails.UserDetailsService,org.springframework.security.authentication.AuthenticationManagerResolver,org.springframework.security.oauth2.jwt.JwtDecoder,org.springframework.security.oauth2.server.resource.introspection.OpaqueTokenIntrospector,org.springframework.security.oauth2.client.registration.ClientRegistrationRepository; SearchStrategy: all) found beans of type 'org.springframework.security.authentication.AuthenticationManager' authenticationManagerBean and found beans of type 'org.springframework.security.core.userdetails.UserDetailsService' customUserDetailsService (OnBeanCondition)
+      Matched:
+         - @ConditionalOnClass found required class 'org.springframework.security.authentication.AuthenticationManager' (OnClassCondition)
+
+   WebSecurityEnablerConfiguration:
+      Did not match:
+         - @ConditionalOnMissingBean (names: springSecurityFilterChain; SearchStrategy: all) found beans named springSecurityFilterChain (OnBeanCondition)
+      Matched:
+         - @ConditionalOnClass found required class 'org.springframework.security.config.annotation.web.configuration.EnableWebSecurity' (OnClassCondition)
+         - found 'session' scope (OnWebApplicationCondition)
+
+
+Exclusions:
+-----------
+
+    None
+
+
+Unconditional classes:
+----------------------
+
+    None
+
+
+
+10:27:07.972 [main] INFO  c.e.a.AssignmentApplicationTest - Starting AssignmentApplicationTest using Java 17.0.8 on Khaoula with PID 20568 (started by jbeli in C:\Users\jbeli\eclipse-workspace\assignment.zip_expanded\assignment)
+10:27:07.972 [main] INFO  c.e.a.AssignmentApplicationTest - No active profile set, falling back to default profiles: default
+10:27:11.333 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@1a59500b, org.springframework.security.web.context.SecurityContextPersistenceFilter@4198921f, org.springframework.security.web.header.HeaderWriterFilter@38326fd5, org.springframework.security.web.authentication.logout.LogoutFilter@6889e714, org.springframework.security.web.session.ConcurrentSessionFilter@2c955487, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@389a9ff6, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@33a58fcb, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@7cc842b0, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@4e3c0627, org.springframework.security.web.session.SessionManagementFilter@3ca5da54, org.springframework.security.web.access.ExceptionTranslationFilter@233d2b76, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@638e8194]
+10:27:12.191 [main] INFO  c.e.a.AssignmentApplicationTest - Started AssignmentApplicationTest in 5.506 seconds (JVM running for 8.432)
+10:27:13.386 [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+10:27:13.386 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+10:27:13.386 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+10:27:13.548 [main] INFO  c.e.a.controller.LoginController - User logged in successfully
+10:29:30.978 [restartedMain] INFO  c.e.assignment.AssignmentApplication - Starting AssignmentApplication using Java 17.0.5 on Khaoula with PID 2872 (C:\Users\jbeli\eclipse-workspace\assignment.zip_expanded\assignment\target\classes started by jbeli in C:\Users\jbeli\eclipse-workspace\assignment.zip_expanded\assignment)
+10:29:30.978 [restartedMain] INFO  c.e.assignment.AssignmentApplication - No active profile set, falling back to default profiles: default
+10:29:31.376 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+10:29:31.376 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+10:29:31.376 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+10:29:31.376 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+10:29:31.408 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+10:29:31.408 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 423 ms
+10:29:31.581 [restartedMain] INFO  o.s.b.a.s.s.UserDetailsServiceAutoConfiguration - 
+
+Using generated security password: c9cab3c1-2297-4832-a522-4d12c827e402
+
+10:29:31.586 [restartedMain] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@2e6794c6, org.springframework.security.web.context.SecurityContextPersistenceFilter@6a4deb25, org.springframework.security.web.header.HeaderWriterFilter@3ee98469, org.springframework.security.web.csrf.CsrfFilter@5ba7564c, org.springframework.security.web.authentication.logout.LogoutFilter@114fdfdf, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@763d903e, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@42d98164, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@67ed451e, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@7c6161c3, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@755470a7, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@76c78a8, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@7d4b95bd, org.springframework.security.web.session.SessionManagementFilter@b39d938, org.springframework.security.web.access.ExceptionTranslationFilter@1d4058cb, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@11bb0f03]
+10:29:31.628 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+10:29:31.652 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8082"]
+10:29:31.657 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path ''
+10:29:31.663 [restartedMain] INFO  c.e.assignment.AssignmentApplication - Started AssignmentApplication in 0.742 seconds (JVM running for 1953.351)
+10:29:31.667 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation delta:
+
+
+==========================
+CONDITION EVALUATION DELTA
+==========================
+
+
+Positive matches:
+-----------------
+
+   SpringBootWebSecurityConfiguration matched:
+      - found 'session' scope (OnWebApplicationCondition)
+      - AllNestedConditions 2 matched 0 did not; NestedCondition on DefaultWebSecurityCondition.Beans @ConditionalOnMissingBean (types: org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter,org.springframework.security.web.SecurityFilterChain; SearchStrategy: all) did not find any beans; NestedCondition on DefaultWebSecurityCondition.Classes @ConditionalOnClass found required classes 'org.springframework.security.web.SecurityFilterChain', 'org.springframework.security.config.annotation.web.builders.HttpSecurity' (DefaultWebSecurityCondition)
+
+   UserDetailsServiceAutoConfiguration matched:
+      - @ConditionalOnClass found required class 'org.springframework.security.authentication.AuthenticationManager' (OnClassCondition)
+      - @ConditionalOnBean (types: org.springframework.security.config.annotation.ObjectPostProcessor; SearchStrategy: all) found bean 'objectPostProcessor'; @ConditionalOnMissingBean (types: org.springframework.security.authentication.AuthenticationManager,org.springframework.security.authentication.AuthenticationProvider,org.springframework.security.core.userdetails.UserDetailsService,org.springframework.security.authentication.AuthenticationManagerResolver,org.springframework.security.oauth2.jwt.JwtDecoder,org.springframework.security.oauth2.server.resource.introspection.OpaqueTokenIntrospector,org.springframework.security.oauth2.client.registration.ClientRegistrationRepository; SearchStrategy: all) did not find any beans (OnBeanCondition)
+
+   WebSecurityEnablerConfiguration matched:
+      - @ConditionalOnClass found required class 'org.springframework.security.config.annotation.web.configuration.EnableWebSecurity' (OnClassCondition)
+      - found 'session' scope (OnWebApplicationCondition)
+      - @ConditionalOnMissingBean (names: springSecurityFilterChain; SearchStrategy: all) did not find any beans (OnBeanCondition)
+
+
+Negative matches:
+-----------------
+
+    None
+
+
+Exclusions:
+-----------
+
+    None
+
+
+Unconditional classes:
+----------------------
+
+    None
+
+
+
+10:29:33.188 [restartedMain] INFO  c.e.assignment.AssignmentApplication - Starting AssignmentApplication using Java 17.0.5 on Khaoula with PID 2872 (C:\Users\jbeli\eclipse-workspace\assignment.zip_expanded\assignment\target\classes started by jbeli in C:\Users\jbeli\eclipse-workspace\assignment.zip_expanded\assignment)
+10:29:33.188 [restartedMain] INFO  c.e.assignment.AssignmentApplication - No active profile set, falling back to default profiles: default
+10:29:33.650 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+10:29:33.650 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+10:29:33.656 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+10:29:33.657 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+10:29:33.689 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+10:29:33.689 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 487 ms
+10:29:33.750 [restartedMain] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@37d38214, org.springframework.security.web.context.SecurityContextPersistenceFilter@78d7d0af, org.springframework.security.web.header.HeaderWriterFilter@2cdf0c70, org.springframework.security.web.authentication.logout.LogoutFilter@83241d5, org.springframework.security.web.session.ConcurrentSessionFilter@5e6f97de, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@573ad398, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@2cbfff49, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@6cd50935, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@2558a959, org.springframework.security.web.session.SessionManagementFilter@7ee7c9b2, org.springframework.security.web.access.ExceptionTranslationFilter@6f0922ee, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@123c8849]
+10:29:33.845 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+10:29:33.848 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8082"]
+10:29:33.848 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path ''
+10:29:33.864 [restartedMain] INFO  c.e.assignment.AssignmentApplication - Started AssignmentApplication in 0.717 seconds (JVM running for 1955.564)
+10:29:33.880 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation delta:
+
+
+==========================
+CONDITION EVALUATION DELTA
+==========================
+
+
+Positive matches:
+-----------------
+
+    None
+
+
+Negative matches:
+-----------------
+
+   SpringBootWebSecurityConfiguration:
+      Did not match:
+         - AllNestedConditions 1 matched 1 did not; NestedCondition on DefaultWebSecurityCondition.Beans @ConditionalOnMissingBean (types: org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter,org.springframework.security.web.SecurityFilterChain; SearchStrategy: all) found beans of type 'org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter' securityConfig; NestedCondition on DefaultWebSecurityCondition.Classes @ConditionalOnClass found required classes 'org.springframework.security.web.SecurityFilterChain', 'org.springframework.security.config.annotation.web.builders.HttpSecurity' (DefaultWebSecurityCondition)
+      Matched:
+         - found 'session' scope (OnWebApplicationCondition)
+
+   UserDetailsServiceAutoConfiguration:
+      Did not match:
+         - @ConditionalOnMissingBean (types: org.springframework.security.authentication.AuthenticationManager,org.springframework.security.authentication.AuthenticationProvider,org.springframework.security.core.userdetails.UserDetailsService,org.springframework.security.authentication.AuthenticationManagerResolver,org.springframework.security.oauth2.jwt.JwtDecoder,org.springframework.security.oauth2.server.resource.introspection.OpaqueTokenIntrospector,org.springframework.security.oauth2.client.registration.ClientRegistrationRepository; SearchStrategy: all) found beans of type 'org.springframework.security.authentication.AuthenticationManager' authenticationManagerBean and found beans of type 'org.springframework.security.core.userdetails.UserDetailsService' customUserDetailsService (OnBeanCondition)
+      Matched:
+         - @ConditionalOnClass found required class 'org.springframework.security.authentication.AuthenticationManager' (OnClassCondition)
+
+   WebSecurityEnablerConfiguration:
+      Did not match:
+         - @ConditionalOnMissingBean (names: springSecurityFilterChain; SearchStrategy: all) found beans named springSecurityFilterChain (OnBeanCondition)
+      Matched:
+         - @ConditionalOnClass found required class 'org.springframework.security.config.annotation.web.configuration.EnableWebSecurity' (OnClassCondition)
+         - found 'session' scope (OnWebApplicationCondition)
+
+
+Exclusions:
+-----------
+
+    None
+
+
+Unconditional classes:
+----------------------
+
+    None
+
+
+
+10:29:39.281 [main] INFO  c.e.a.AssignmentApplicationTest - Starting AssignmentApplicationTest using Java 17.0.8 on Khaoula with PID 9292 (started by jbeli in C:\Users\jbeli\eclipse-workspace\assignment.zip_expanded\assignment)
+10:29:39.281 [main] INFO  c.e.a.AssignmentApplicationTest - No active profile set, falling back to default profiles: default
+10:29:42.585 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@1a59500b, org.springframework.security.web.context.SecurityContextPersistenceFilter@4198921f, org.springframework.security.web.header.HeaderWriterFilter@38326fd5, org.springframework.security.web.authentication.logout.LogoutFilter@6889e714, org.springframework.security.web.session.ConcurrentSessionFilter@2c955487, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@389a9ff6, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@33a58fcb, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@7cc842b0, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@4e3c0627, org.springframework.security.web.session.SessionManagementFilter@3ca5da54, org.springframework.security.web.access.ExceptionTranslationFilter@233d2b76, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@638e8194]
+10:29:44.850 [main] INFO  c.e.a.AssignmentApplicationTest - Started AssignmentApplicationTest in 7.179 seconds (JVM running for 11.026)
+10:29:46.460 [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+10:29:46.460 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+10:29:46.460 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+10:29:46.745 [main] INFO  c.e.a.controller.LoginController - User logged in successfully
+10:30:07.545 [restartedMain] INFO  c.e.assignment.AssignmentApplication - Starting AssignmentApplication using Java 17.0.5 on Khaoula with PID 2872 (C:\Users\jbeli\eclipse-workspace\assignment.zip_expanded\assignment\target\classes started by jbeli in C:\Users\jbeli\eclipse-workspace\assignment.zip_expanded\assignment)
+10:30:07.545 [restartedMain] INFO  c.e.assignment.AssignmentApplication - No active profile set, falling back to default profiles: default
+10:30:07.865 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+10:30:07.865 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+10:30:07.865 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+10:30:07.865 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+10:30:07.881 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+10:30:07.881 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 321 ms
+10:30:07.939 [restartedMain] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@21e70e49, org.springframework.security.web.context.SecurityContextPersistenceFilter@908304d, org.springframework.security.web.header.HeaderWriterFilter@5b7e344f, org.springframework.security.web.authentication.logout.LogoutFilter@70dc6b98, org.springframework.security.web.session.ConcurrentSessionFilter@3cc7a091, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@490c02c2, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@237ea16f, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@39dc520c, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@2dc660c, org.springframework.security.web.session.SessionManagementFilter@c82c753, org.springframework.security.web.access.ExceptionTranslationFilter@2cd32529, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@b3ada0b]
+10:30:08.006 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+10:30:08.006 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8082"]
+10:30:08.022 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path ''
+10:30:08.039 [restartedMain] INFO  c.e.assignment.AssignmentApplication - Started AssignmentApplication in 0.524 seconds (JVM running for 1989.727)
+10:30:08.039 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+10:30:10.488 [main] INFO  c.e.a.AssignmentApplicationTest - Starting AssignmentApplicationTest using Java 17.0.8 on Khaoula with PID 29588 (started by jbeli in C:\Users\jbeli\eclipse-workspace\assignment.zip_expanded\assignment)
+10:30:10.488 [main] INFO  c.e.a.AssignmentApplicationTest - No active profile set, falling back to default profiles: default
+10:30:12.665 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@4e3c0627, org.springframework.security.web.context.SecurityContextPersistenceFilter@44181746, org.springframework.security.web.header.HeaderWriterFilter@4a467ada, org.springframework.security.web.authentication.logout.LogoutFilter@4dc5b887, org.springframework.security.web.session.ConcurrentSessionFilter@38ae69f7, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@15af06f, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@36a8ebca, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@53dd29e0, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@57f6fc09, org.springframework.security.web.session.SessionManagementFilter@57a0aeb8, org.springframework.security.web.access.ExceptionTranslationFilter@2370c90, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@43c64d6f]
+10:30:13.543 [main] INFO  c.e.a.AssignmentApplicationTest - Started AssignmentApplicationTest in 3.731 seconds (JVM running for 5.865)
+10:30:14.564 [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+10:30:14.564 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+10:30:14.564 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+10:30:14.767 [main] INFO  c.e.a.controller.LoginController - User logged in successfully
+11:25:49.740 [restartedMain] INFO  c.e.assignment.AssignmentApplication - Starting AssignmentApplication using Java 17.0.5 on Khaoula with PID 20264 (C:\Users\jbeli\OneDrive\Documents\assignmentNew\Assignment\assignment\target\classes started by jbeli in C:\Users\jbeli\OneDrive\Documents\assignmentNew\Assignment\assignment)
+11:25:49.741 [restartedMain] INFO  c.e.assignment.AssignmentApplication - No active profile set, falling back to default profiles: default
+11:25:49.784 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+11:25:49.784 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+11:25:50.714 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+11:25:50.724 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+11:25:50.725 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+11:25:50.725 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+11:25:50.805 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+11:25:50.805 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1020 ms
+11:25:51.055 [restartedMain] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@1312519, org.springframework.security.web.context.SecurityContextPersistenceFilter@a692eca, org.springframework.security.web.header.HeaderWriterFilter@333f89aa, org.springframework.security.web.authentication.logout.LogoutFilter@3dc52d94, org.springframework.security.web.session.ConcurrentSessionFilter@668babe5, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@671baf37, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@4b0b0a8d, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@61eab747, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@33b5e3a3, org.springframework.security.web.session.SessionManagementFilter@7c1b6975, org.springframework.security.web.access.ExceptionTranslationFilter@37e3f1be, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@1b6f4b3]
+11:25:51.274 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+11:25:51.286 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8082"]
+11:25:51.327 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path ''
+11:25:51.337 [restartedMain] INFO  c.e.assignment.AssignmentApplication - Started AssignmentApplication in 1.97 seconds (JVM running for 2.762)
+11:27:02.616 [http-nio-8082-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+11:27:02.616 [http-nio-8082-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+11:27:02.617 [http-nio-8082-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+11:27:03.170 [http-nio-8082-exec-2] INFO  c.e.a.controller.LoginController - User logged in successfully
+11:27:06.132 [http-nio-8082-exec-3] WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.util.Date'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [@org.springframework.web.bind.annotation.RequestParam @org.springframework.format.annotation.DateTimeFormat java.util.Date] for value '1201907'; nested exception is java.lang.IllegalArgumentException: Parse attempt failed for value [1201907]]
+11:27:07.514 [http-nio-8082-exec-5] WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.util.Date'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [@org.springframework.web.bind.annotation.RequestParam @org.springframework.format.annotation.DateTimeFormat java.util.Date] for value '1201907'; nested exception is java.lang.IllegalArgumentException: Parse attempt failed for value [1201907]]
+11:28:51.605 [restartedMain] INFO  c.e.assignment.AssignmentApplication - Starting AssignmentApplication using Java 17.0.5 on Khaoula with PID 20264 (C:\Users\jbeli\OneDrive\Documents\assignmentNew\Assignment\assignment\target\classes started by jbeli in C:\Users\jbeli\OneDrive\Documents\assignmentNew\Assignment\assignment)
+11:28:51.605 [restartedMain] INFO  c.e.assignment.AssignmentApplication - No active profile set, falling back to default profiles: default
+11:28:51.801 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+11:28:51.802 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+11:28:51.802 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+11:28:51.803 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+11:28:51.824 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+11:28:51.824 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 216 ms
+11:28:51.875 [restartedMain] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@16c70781, org.springframework.security.web.context.SecurityContextPersistenceFilter@2d1d0ff8, org.springframework.security.web.header.HeaderWriterFilter@4868244f, org.springframework.security.web.authentication.logout.LogoutFilter@37768067, org.springframework.security.web.session.ConcurrentSessionFilter@212a57ba, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@3905a272, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@245e0c48, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@1352301, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@77348822, org.springframework.security.web.session.SessionManagementFilter@1fa74d37, org.springframework.security.web.access.ExceptionTranslationFilter@1383f710, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@5f0ae9b2]
+11:28:51.941 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+11:28:51.951 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8082"]
+11:28:51.955 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path ''
+11:28:51.960 [restartedMain] INFO  c.e.assignment.AssignmentApplication - Started AssignmentApplication in 0.386 seconds (JVM running for 183.385)
+11:28:51.962 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+11:28:55.757 [http-nio-8082-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+11:28:55.757 [http-nio-8082-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+11:28:55.758 [http-nio-8082-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+11:28:56.208 [http-nio-8082-exec-2] INFO  c.e.a.controller.LoginController - User logged in successfully
+11:29:11.356 [http-nio-8082-exec-3] ERROR o.a.c.c.C.[.[.[.[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.IllegalArgumentException: Invalid date range: from date should be before to date] with root cause
+java.lang.IllegalArgumentException: Invalid date range: from date should be before to date
+	at com.example.assignment.controller.StatementController.getStatements(StatementController.java:57)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1067)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:327)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.invoke(FilterSecurityInterceptor.java:115)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.doFilter(FilterSecurityInterceptor.java:81)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:122)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:116)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.session.SessionManagementFilter.doFilter(SessionManagementFilter.java:126)
+	at org.springframework.security.web.session.SessionManagementFilter.doFilter(SessionManagementFilter.java:81)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.authentication.AnonymousAuthenticationFilter.doFilter(AnonymousAuthenticationFilter.java:109)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:149)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.savedrequest.RequestCacheAwareFilter.doFilter(RequestCacheAwareFilter.java:63)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.authentication.www.BasicAuthenticationFilter.doFilterInternal(BasicAuthenticationFilter.java:150)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.session.ConcurrentSessionFilter.doFilter(ConcurrentSessionFilter.java:147)
+	at org.springframework.security.web.session.ConcurrentSessionFilter.doFilter(ConcurrentSessionFilter.java:125)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:103)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:89)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.header.HeaderWriterFilter.doHeadersAfter(HeaderWriterFilter.java:90)
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:75)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:110)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:80)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:55)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:211)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:183)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:354)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:267)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:540)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:382)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:895)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1732)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+11:38:07.593 [restartedMain] INFO  c.e.assignment.AssignmentApplication - Starting AssignmentApplication using Java 17.0.5 on Khaoula with PID 20264 (C:\Users\jbeli\OneDrive\Documents\assignmentNew\Assignment\assignment\target\classes started by jbeli in C:\Users\jbeli\OneDrive\Documents\assignmentNew\Assignment\assignment)
+11:38:07.593 [restartedMain] INFO  c.e.assignment.AssignmentApplication - No active profile set, falling back to default profiles: default
+11:38:07.712 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+11:38:07.713 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+11:38:07.713 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+11:38:07.713 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+11:38:07.725 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+11:38:07.725 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 130 ms
+11:38:07.748 [restartedMain] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@7ffe49d0, org.springframework.security.web.context.SecurityContextPersistenceFilter@1f4e275a, org.springframework.security.web.header.HeaderWriterFilter@7ec9c9c9, org.springframework.security.web.authentication.logout.LogoutFilter@a06fbe2, org.springframework.security.web.session.ConcurrentSessionFilter@7750893a, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@64ce24e1, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@2ff932fb, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@17762651, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@1ad97b63, org.springframework.security.web.session.SessionManagementFilter@3dc0aee3, org.springframework.security.web.access.ExceptionTranslationFilter@6d40b6dc, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@114ed22a]
+11:38:07.781 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+11:38:07.785 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8082"]
+11:38:07.787 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path ''
+11:38:07.789 [restartedMain] INFO  c.e.assignment.AssignmentApplication - Started AssignmentApplication in 0.215 seconds (JVM running for 739.214)
+11:38:07.790 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+11:38:19.923 [http-nio-8082-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+11:38:19.923 [http-nio-8082-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+11:38:19.924 [http-nio-8082-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+11:38:23.774 [http-nio-8082-exec-3] INFO  c.e.a.controller.LoginController - User logged in successfully
+11:40:26.185 [RMI TCP Connection(19)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+11:40:46.675 [main] INFO  c.e.a.AssignmentApplicationTest - Starting AssignmentApplicationTest using Java 17.0.5 on Khaoula with PID 28272 (started by jbeli in C:\Users\jbeli\OneDrive\Documents\assignmentNew\Assignment\assignment)
+11:40:46.677 [main] INFO  c.e.a.AssignmentApplicationTest - No active profile set, falling back to default profiles: default
+11:40:48.112 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@78a0d664, org.springframework.security.web.context.SecurityContextPersistenceFilter@1d77d9c6, org.springframework.security.web.header.HeaderWriterFilter@511ad0dd, org.springframework.security.web.authentication.logout.LogoutFilter@6d7d0946, org.springframework.security.web.session.ConcurrentSessionFilter@45dfb6a4, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@715d82a0, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@76c2d002, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@1e65c4d, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@1237aa73, org.springframework.security.web.session.SessionManagementFilter@2f70d78c, org.springframework.security.web.access.ExceptionTranslationFilter@1188e08b, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@562ec518]
+11:40:48.737 [main] INFO  c.e.a.AssignmentApplicationTest - Started AssignmentApplicationTest in 2.542 seconds (JVM running for 4.128)
+11:40:50.038 [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+11:40:50.039 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+11:40:50.039 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+11:40:50.242 [main] INFO  c.e.a.controller.LoginController - User logged in successfully
+12:45:56.688 [main] INFO  c.e.a.AssignmentApplicationTest - Starting AssignmentApplicationTest using Java 17.0.8 on Khaoula with PID 5636 (started by jbeli in C:\Users\jbeli\OneDrive\Documents\assignmentNew\Assignment\assignment)
+12:45:56.697 [main] INFO  c.e.a.AssignmentApplicationTest - No active profile set, falling back to default profiles: default
+12:45:58.019 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@11c40a65, org.springframework.security.web.context.SecurityContextPersistenceFilter@6c569caf, org.springframework.security.web.header.HeaderWriterFilter@2c955487, org.springframework.security.web.authentication.logout.LogoutFilter@6bc08a77, org.springframework.security.web.session.ConcurrentSessionFilter@5776a9f8, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@2b98c310, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@7e1ce99c, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@4dc5b887, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@68c3aa38, org.springframework.security.web.session.SessionManagementFilter@2d093067, org.springframework.security.web.access.ExceptionTranslationFilter@288915a1, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@6491006]
+12:45:58.631 [main] INFO  c.e.a.AssignmentApplicationTest - Started AssignmentApplicationTest in 2.352 seconds (JVM running for 3.734)
+12:45:59.352 [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+12:45:59.352 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+12:45:59.352 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+12:45:59.477 [main] INFO  c.e.a.controller.LoginController - User logged in successfully
+13:14:04.262 [main] INFO  c.e.a.AssignmentApplicationTest - Starting AssignmentApplicationTest using Java 17.0.5 on Khaoula with PID 20040 (started by jbeli in C:\Users\jbeli\OneDrive\Documents\assignmentNew\Assignment\assignment)
+13:14:04.263 [main] INFO  c.e.a.AssignmentApplicationTest - No active profile set, falling back to default profiles: default
+13:14:05.688 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@186e254, org.springframework.security.web.context.SecurityContextPersistenceFilter@43778d6d, org.springframework.security.web.header.HeaderWriterFilter@19b4dd60, org.springframework.security.web.authentication.logout.LogoutFilter@23a9400c, org.springframework.security.web.session.ConcurrentSessionFilter@5cf39df6, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@18c432ed, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@524b1e41, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@34893693, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@6a827b0c, org.springframework.security.web.session.SessionManagementFilter@12e13abd, org.springframework.security.web.access.ExceptionTranslationFilter@22e650e, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@5b5e45bc]
+13:14:06.426 [main] INFO  c.e.a.AssignmentApplicationTest - Started AssignmentApplicationTest in 2.621 seconds (JVM running for 4.715)
+13:14:07.228 [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+13:14:07.228 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+13:14:07.229 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 1 ms
+13:14:07.286 [main] WARN  o.s.web.servlet.PageNotFound - No mapping for POST /login
+13:15:08.397 [main] INFO  c.e.a.AssignmentApplicationTest - Starting AssignmentApplicationTest using Java 17.0.5 on Khaoula with PID 2136 (started by jbeli in C:\Users\jbeli\OneDrive\Documents\assignmentNew\Assignment\assignment)
+13:15:08.399 [main] INFO  c.e.a.AssignmentApplicationTest - No active profile set, falling back to default profiles: default
+13:15:09.843 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@39ee07a9, org.springframework.security.web.context.SecurityContextPersistenceFilter@19b33b0d, org.springframework.security.web.header.HeaderWriterFilter@4138af7, org.springframework.security.web.authentication.logout.LogoutFilter@6731b6bd, org.springframework.security.web.session.ConcurrentSessionFilter@44846c76, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@3fae357f, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@d827673, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@2f70d78c, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@4cff38ff, org.springframework.security.web.session.SessionManagementFilter@6e0dec27, org.springframework.security.web.access.ExceptionTranslationFilter@376bae20, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@2cf97875]
+13:15:10.539 [main] INFO  c.e.a.AssignmentApplicationTest - Started AssignmentApplicationTest in 2.597 seconds (JVM running for 4.319)
+13:15:11.304 [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+13:15:11.304 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+13:15:11.304 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+13:15:11.350 [main] WARN  o.s.web.servlet.PageNotFound - No mapping for POST /login
+13:16:47.567 [main] INFO  c.e.a.AssignmentApplicationTest - Starting AssignmentApplicationTest using Java 17.0.5 on Khaoula with PID 5696 (started by jbeli in C:\Users\jbeli\OneDrive\Documents\assignmentNew\Assignment\assignment)
+13:16:47.569 [main] INFO  c.e.a.AssignmentApplicationTest - No active profile set, falling back to default profiles: default
+13:16:49.056 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@7f36cd8f, org.springframework.security.web.context.SecurityContextPersistenceFilter@58fadccb, org.springframework.security.web.header.HeaderWriterFilter@244c0fbe, org.springframework.security.web.authentication.logout.LogoutFilter@4b99f2ed, org.springframework.security.web.session.ConcurrentSessionFilter@d827673, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@4ae435a3, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@8bb5c2a, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@12ebcdf6, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@20040c6e, org.springframework.security.web.session.SessionManagementFilter@511ad0dd, org.springframework.security.web.access.ExceptionTranslationFilter@363d29dd, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@7a05cdc8]
+13:16:49.757 [main] INFO  c.e.a.AssignmentApplicationTest - Started AssignmentApplicationTest in 2.679 seconds (JVM running for 4.257)
+13:16:50.560 [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+13:16:50.561 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+13:16:50.561 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+13:16:50.690 [main] INFO  c.e.a.controller.LoginController - User logged in successfully
+19:31:13.051 [main] INFO  c.e.a.AssignmentApplicationTest - Starting AssignmentApplicationTest using Java 17.0.8 on Khaoula with PID 23364 (started by jbeli in C:\Users\jbeli\OneDrive\Documents\assignmentNew\Assignment\assignment)
+19:31:13.066 [main] INFO  c.e.a.AssignmentApplicationTest - No active profile set, falling back to default profiles: default
+19:31:14.618 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@5bfeb9ba, org.springframework.security.web.context.SecurityContextPersistenceFilter@743b7025, org.springframework.security.web.header.HeaderWriterFilter@4645a575, org.springframework.security.web.authentication.logout.LogoutFilter@3b72860c, org.springframework.security.web.session.ConcurrentSessionFilter@328e687e, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@14b9817b, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@78e34499, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@159a0f0e, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@4cf1bd4a, org.springframework.security.web.session.SessionManagementFilter@949f0d, org.springframework.security.web.access.ExceptionTranslationFilter@6f986031, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@39179470]
+19:31:15.340 [main] INFO  c.e.a.AssignmentApplicationTest - Started AssignmentApplicationTest in 2.787 seconds (JVM running for 4.329)
+19:31:16.323 [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+19:31:16.323 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+19:31:16.339 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+19:31:16.466 [main] INFO  c.e.a.controller.LoginController - User logged in successfully
+19:35:48.579 [main] INFO  c.e.a.AssignmentApplicationTest - Starting AssignmentApplicationTest using Java 17.0.5 on Khaoula with PID 18556 (started by jbeli in C:\Users\jbeli\OneDrive\Documents\assignmentNew\Assignment\assignment)
+19:35:48.581 [main] INFO  c.e.a.AssignmentApplicationTest - No active profile set, falling back to default profiles: default
+19:35:50.092 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@1e084a26, org.springframework.security.web.context.SecurityContextPersistenceFilter@55589ef5, org.springframework.security.web.header.HeaderWriterFilter@25af1dbf, org.springframework.security.web.authentication.logout.LogoutFilter@7a25f8ee, org.springframework.security.web.session.ConcurrentSessionFilter@88fc9cb, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@e8fb390, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@6731b6bd, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@352d3749, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@31c31fa6, org.springframework.security.web.session.SessionManagementFilter@711fbcef, org.springframework.security.web.access.ExceptionTranslationFilter@3857c5d5, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@6da86e98]
+19:35:50.766 [main] INFO  c.e.a.AssignmentApplicationTest - Started AssignmentApplicationTest in 2.73 seconds (JVM running for 4.416)
+19:35:51.525 [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+19:35:51.525 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+19:35:51.525 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+19:35:51.678 [main] INFO  c.e.a.controller.LoginController - User logged in successfully
+19:35:51.733 [main] ERROR c.e.a.controller.StatementController - Invalid account ID
+19:43:19.986 [main] INFO  c.e.a.AssignmentApplicationTest - Starting AssignmentApplicationTest using Java 17.0.5 on Khaoula with PID 2196 (started by jbeli in C:\Users\jbeli\OneDrive\Documents\assignmentNew\Assignment\assignment)
+19:43:19.988 [main] INFO  c.e.a.AssignmentApplicationTest - No active profile set, falling back to default profiles: default
+19:43:21.504 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@4193da4d, org.springframework.security.web.context.SecurityContextPersistenceFilter@7a25f8ee, org.springframework.security.web.header.HeaderWriterFilter@76c2d002, org.springframework.security.web.authentication.logout.LogoutFilter@3ce4eb42, org.springframework.security.web.session.ConcurrentSessionFilter@5d3d5242, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@7baf7e2c, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@27a23d87, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@30f54522, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@6915351c, org.springframework.security.web.session.SessionManagementFilter@723081a2, org.springframework.security.web.access.ExceptionTranslationFilter@a5df98c, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@9da386c]
+19:43:22.154 [main] INFO  c.e.a.AssignmentApplicationTest - Started AssignmentApplicationTest in 2.663 seconds (JVM running for 4.21)
+19:43:22.870 [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+19:43:22.871 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+19:43:22.871 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+19:43:23.012 [main] INFO  c.e.a.controller.LoginController - User logged in successfully
+19:43:23.053 [main] ERROR c.e.a.controller.StatementController - Invalid account ID
+19:43:23.066 [main] ERROR c.e.a.controller.StatementController - Invalid account ID
+19:44:16.055 [main] INFO  c.e.a.AssignmentApplicationTest - Starting AssignmentApplicationTest using Java 17.0.5 on Khaoula with PID 22608 (started by jbeli in C:\Users\jbeli\OneDrive\Documents\assignmentNew\Assignment\assignment)
+19:44:16.057 [main] INFO  c.e.a.AssignmentApplicationTest - No active profile set, falling back to default profiles: default
+19:44:17.459 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@4193da4d, org.springframework.security.web.context.SecurityContextPersistenceFilter@7a25f8ee, org.springframework.security.web.header.HeaderWriterFilter@76c2d002, org.springframework.security.web.authentication.logout.LogoutFilter@3ce4eb42, org.springframework.security.web.session.ConcurrentSessionFilter@5d3d5242, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@7baf7e2c, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@27a23d87, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@30f54522, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@6915351c, org.springframework.security.web.session.SessionManagementFilter@723081a2, org.springframework.security.web.access.ExceptionTranslationFilter@a5df98c, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@9da386c]
+19:44:18.173 [main] INFO  c.e.a.AssignmentApplicationTest - Started AssignmentApplicationTest in 2.582 seconds (JVM running for 4.101)
+19:44:18.971 [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+19:44:18.971 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+19:44:18.971 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+19:44:19.131 [main] INFO  c.e.a.controller.LoginController - User logged in successfully
+19:44:19.180 [main] ERROR c.e.a.controller.StatementController - Invalid date range: from date should be before to date
+19:44:19.187 [main] ERROR c.e.a.controller.StatementController - Invalid account ID
+19:45:48.076 [main] INFO  c.e.a.AssignmentApplicationTest - Starting AssignmentApplicationTest using Java 17.0.5 on Khaoula with PID 14124 (started by jbeli in C:\Users\jbeli\OneDrive\Documents\assignmentNew\Assignment\assignment)
+19:45:48.077 [main] INFO  c.e.a.AssignmentApplicationTest - No active profile set, falling back to default profiles: default
+19:45:49.617 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@2ef3efcc, org.springframework.security.web.context.SecurityContextPersistenceFilter@d8cece4, org.springframework.security.web.header.HeaderWriterFilter@1e65c4d, org.springframework.security.web.authentication.logout.LogoutFilter@21a462ce, org.springframework.security.web.session.ConcurrentSessionFilter@2dc72c0c, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@3f7f9d3f, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@30f54522, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@5d50e7f6, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@60655642, org.springframework.security.web.session.SessionManagementFilter@50b78155, org.springframework.security.web.access.ExceptionTranslationFilter@88fc9cb, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@e8fb390]
+19:45:50.307 [main] INFO  c.e.a.AssignmentApplicationTest - Started AssignmentApplicationTest in 2.719 seconds (JVM running for 4.285)
+19:45:51.083 [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+19:45:51.083 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+19:45:51.084 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 1 ms
+19:45:51.229 [main] INFO  c.e.a.controller.LoginController - User logged in successfully
+19:45:51.275 [main] ERROR c.e.a.controller.StatementController - Invalid date range: from date should be before to date
+19:45:51.281 [main] ERROR c.e.a.controller.StatementController - Invalid account ID
+19:45:51.292 [main] ERROR c.e.a.controller.StatementController - Invalid amount range: To amount should be geater than  from amount
+19:50:25.535 [main] INFO  c.e.a.AssignmentApplicationTest - Starting AssignmentApplicationTest using Java 17.0.5 on Khaoula with PID 25012 (started by jbeli in C:\Users\jbeli\OneDrive\Documents\assignmentNew\Assignment\assignment)
+19:50:25.536 [main] INFO  c.e.a.AssignmentApplicationTest - No active profile set, falling back to default profiles: default
+19:50:27.051 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@3a5c6009, org.springframework.security.web.context.SecurityContextPersistenceFilter@fc6cac6, org.springframework.security.web.header.HeaderWriterFilter@6408a8ac, org.springframework.security.web.authentication.logout.LogoutFilter@178617da, org.springframework.security.web.session.ConcurrentSessionFilter@6731b6bd, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@615b1baf, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@4b99f2ed, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@356cb230, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@2c4e63b3, org.springframework.security.web.session.SessionManagementFilter@39a1c200, org.springframework.security.web.access.ExceptionTranslationFilter@634d56eb, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@5d94c50e]
+19:50:27.722 [main] INFO  c.e.a.AssignmentApplicationTest - Started AssignmentApplicationTest in 2.686 seconds (JVM running for 4.256)
+19:50:28.488 [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+19:50:28.488 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+19:50:28.489 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 1 ms
+19:50:28.638 [main] INFO  c.e.a.controller.LoginController - User logged in successfully
+19:50:28.681 [main] ERROR c.e.a.controller.StatementController - Invalid date range: from date should be before to date
+19:50:28.688 [main] ERROR c.e.a.controller.StatementController - Invalid account ID
+19:50:28.707 [main] ERROR c.e.a.controller.StatementController - Invalid amount range: To amount should be geater than  from amount
+19:51:52.082 [main] INFO  c.e.a.AssignmentApplicationTest - Starting AssignmentApplicationTest using Java 17.0.5 on Khaoula with PID 16300 (started by jbeli in C:\Users\jbeli\OneDrive\Documents\assignmentNew\Assignment\assignment)
+19:51:52.084 [main] INFO  c.e.a.AssignmentApplicationTest - No active profile set, falling back to default profiles: default
+19:51:53.621 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@1e084a26, org.springframework.security.web.context.SecurityContextPersistenceFilter@55589ef5, org.springframework.security.web.header.HeaderWriterFilter@25af1dbf, org.springframework.security.web.authentication.logout.LogoutFilter@7a25f8ee, org.springframework.security.web.session.ConcurrentSessionFilter@88fc9cb, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@e8fb390, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@6731b6bd, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@352d3749, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@31c31fa6, org.springframework.security.web.session.SessionManagementFilter@711fbcef, org.springframework.security.web.access.ExceptionTranslationFilter@3857c5d5, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@6da86e98]
+19:51:54.316 [main] INFO  c.e.a.AssignmentApplicationTest - Started AssignmentApplicationTest in 2.726 seconds (JVM running for 4.281)
+19:51:55.043 [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+19:51:55.044 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+19:51:55.044 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+19:51:55.185 [main] INFO  c.e.a.controller.LoginController - User logged in successfully
+19:51:55.230 [main] ERROR c.e.a.controller.StatementController - Invalid date range: from date should be before to date
+19:51:55.237 [main] ERROR c.e.a.controller.StatementController - Invalid account ID
+19:51:55.262 [main] ERROR c.e.a.controller.StatementController - Invalid amount range: To amount should be geater than  from amount
+19:52:35.187 [restartedMain] INFO  c.e.assignment.AssignmentApplication - Starting AssignmentApplication using Java 17.0.5 on Khaoula with PID 17016 (C:\Users\jbeli\OneDrive\Documents\assignmentNew\Assignment\assignment\target\classes started by jbeli in C:\Users\jbeli\OneDrive\Documents\assignmentNew\Assignment\assignment)
+19:52:35.187 [restartedMain] INFO  c.e.assignment.AssignmentApplication - No active profile set, falling back to default profiles: default
+19:52:35.226 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+19:52:35.226 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+19:52:35.832 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http)
+19:52:35.839 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+19:52:35.839 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+19:52:35.839 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+19:52:35.889 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+19:52:35.890 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 664 ms
+19:52:36.060 [restartedMain] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@714876c6, org.springframework.security.web.context.SecurityContextPersistenceFilter@6fbb5673, org.springframework.security.web.header.HeaderWriterFilter@57c5eadf, org.springframework.security.web.authentication.logout.LogoutFilter@1ba8ecf2, org.springframework.security.web.session.ConcurrentSessionFilter@10c67d45, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@6c59f23, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@37a2afc2, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@1bf46de1, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@4fa95a20, org.springframework.security.web.session.SessionManagementFilter@509e2d56, org.springframework.security.web.access.ExceptionTranslationFilter@781e164d, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@69d33e61]
+19:52:36.224 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+19:52:36.234 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8082"]
+19:52:36.284 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path ''
+19:52:36.292 [restartedMain] INFO  c.e.assignment.AssignmentApplication - Started AssignmentApplication in 1.402 seconds (JVM running for 1.966)
+19:52:38.854 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+19:52:51.732 [main] INFO  c.e.a.AssignmentApplicationTest - Starting AssignmentApplicationTest using Java 17.0.5 on Khaoula with PID 24616 (started by jbeli in C:\Users\jbeli\OneDrive\Documents\assignmentNew\Assignment\assignment)
+19:52:51.734 [main] INFO  c.e.a.AssignmentApplicationTest - No active profile set, falling back to default profiles: default
+19:52:53.279 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@2c4e63b3, org.springframework.security.web.context.SecurityContextPersistenceFilter@538d2308, org.springframework.security.web.header.HeaderWriterFilter@2f70d78c, org.springframework.security.web.authentication.logout.LogoutFilter@d408c5d, org.springframework.security.web.session.ConcurrentSessionFilter@768f2398, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@48cc060d, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@723081a2, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@50b78155, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@2703785e, org.springframework.security.web.session.SessionManagementFilter@603a34e5, org.springframework.security.web.access.ExceptionTranslationFilter@4cd7128, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@135f160e]
+19:52:54.034 [main] INFO  c.e.a.AssignmentApplicationTest - Started AssignmentApplicationTest in 2.849 seconds (JVM running for 4.537)
+19:52:54.948 [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+19:52:54.948 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+19:52:54.949 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+19:52:55.109 [main] INFO  c.e.a.controller.LoginController - User logged in successfully
+19:52:55.165 [main] ERROR c.e.a.controller.StatementController - Invalid date range: from date should be before to date
+19:52:55.172 [main] ERROR c.e.a.controller.StatementController - Invalid account ID
+19:52:55.202 [main] ERROR c.e.a.controller.StatementController - Invalid amount range: To amount should be geater than  from amount
+19:53:39.588 [main] INFO  c.e.a.AssignmentApplicationTest - Starting AssignmentApplicationTest using Java 17.0.5 on Khaoula with PID 18668 (started by jbeli in C:\Users\jbeli\OneDrive\Documents\assignmentNew\Assignment\assignment)
+19:53:39.589 [main] INFO  c.e.a.AssignmentApplicationTest - No active profile set, falling back to default profiles: default
+19:53:41.053 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@3a5c6009, org.springframework.security.web.context.SecurityContextPersistenceFilter@fc6cac6, org.springframework.security.web.header.HeaderWriterFilter@6408a8ac, org.springframework.security.web.authentication.logout.LogoutFilter@178617da, org.springframework.security.web.session.ConcurrentSessionFilter@6731b6bd, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@615b1baf, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@4b99f2ed, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@356cb230, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@2c4e63b3, org.springframework.security.web.session.SessionManagementFilter@39a1c200, org.springframework.security.web.access.ExceptionTranslationFilter@634d56eb, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@5d94c50e]
+19:53:41.737 [main] INFO  c.e.a.AssignmentApplicationTest - Started AssignmentApplicationTest in 2.624 seconds (JVM running for 4.187)
+19:53:42.556 [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+19:53:42.556 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+19:53:42.556 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+19:53:42.710 [main] INFO  c.e.a.controller.LoginController - User logged in successfully
+19:53:42.747 [main] ERROR c.e.a.controller.StatementController - Invalid date range: from date should be before to date
+19:53:42.754 [main] ERROR c.e.a.controller.StatementController - Invalid account ID
+19:53:42.778 [main] ERROR c.e.a.controller.StatementController - Invalid amount range: To amount should be geater than  from amount
+19:57:06.887 [main] INFO  c.e.a.AssignmentApplicationTest - Starting AssignmentApplicationTest using Java 17.0.5 on Khaoula with PID 23448 (started by jbeli in C:\Users\jbeli\OneDrive\Documents\assignmentNew\Assignment\assignment)
+19:57:06.888 [main] INFO  c.e.a.AssignmentApplicationTest - No active profile set, falling back to default profiles: default
+19:57:08.303 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@46f597f1, org.springframework.security.web.context.SecurityContextPersistenceFilter@1e284d90, org.springframework.security.web.header.HeaderWriterFilter@45dfb6a4, org.springframework.security.web.authentication.logout.LogoutFilter@3af6d7a7, org.springframework.security.web.session.ConcurrentSessionFilter@3d0697da, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@3a7f382, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@5d3d5242, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@2dc72c0c, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@2a045e85, org.springframework.security.web.session.SessionManagementFilter@768f2398, org.springframework.security.web.access.ExceptionTranslationFilter@7daf167, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@6a9a6a0c]
+19:57:08.998 [main] INFO  c.e.a.AssignmentApplicationTest - Started AssignmentApplicationTest in 2.558 seconds (JVM running for 4.126)
+19:57:09.823 [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+19:57:09.824 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+19:57:09.824 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+19:57:09.995 [main] INFO  c.e.a.controller.LoginController - User logged in successfully
+19:57:10.043 [main] ERROR c.e.a.controller.StatementController - Invalid date range: from date should be before to date
+19:57:10.051 [main] ERROR c.e.a.controller.StatementController - Invalid account ID
+19:57:10.070 [main] ERROR c.e.a.controller.StatementController - Invalid amount range: To amount should be geater than  from amount
+19:57:42.975 [main] INFO  c.e.a.AssignmentApplicationTest - Starting AssignmentApplicationTest using Java 17.0.8 on Khaoula with PID 14624 (started by jbeli in C:\Users\jbeli\OneDrive\Documents\assignmentNew\Assignment\assignment)
+19:57:42.977 [main] INFO  c.e.a.AssignmentApplicationTest - No active profile set, falling back to default profiles: default
+19:57:44.638 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@4125bc3c, org.springframework.security.web.context.SecurityContextPersistenceFilter@79735611, org.springframework.security.web.header.HeaderWriterFilter@3b39bee2, org.springframework.security.web.authentication.logout.LogoutFilter@7d381eae, org.springframework.security.web.session.ConcurrentSessionFilter@307e9c02, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@43f5b014, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@593e594f, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@5466a819, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@28b47211, org.springframework.security.web.session.SessionManagementFilter@7f1b2f07, org.springframework.security.web.access.ExceptionTranslationFilter@6771efaa, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@19834eb7]
+19:57:45.349 [main] INFO  c.e.a.AssignmentApplicationTest - Started AssignmentApplicationTest in 2.81 seconds (JVM running for 4.181)
+19:57:46.222 [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+19:57:46.223 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+19:57:46.223 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+19:57:46.530 [main] INFO  c.e.a.controller.LoginController - User logged in successfully
+19:57:46.600 [main] ERROR c.e.a.controller.StatementController - Invalid date range: from date should be before to date
+19:57:46.613 [main] ERROR c.e.a.controller.StatementController - Invalid account ID
+19:57:46.633 [main] ERROR c.e.a.controller.StatementController - Invalid amount range: To amount should be geater than  from amount
+20:05:52.420 [main] INFO  c.e.a.AssignmentApplicationTest - Starting AssignmentApplicationTest using Java 17.0.8 on Khaoula with PID 14352 (started by jbeli in C:\Users\jbeli\OneDrive\Documents\assignmentNew\Assignment\assignment)
+20:05:52.420 [main] INFO  c.e.a.AssignmentApplicationTest - No active profile set, falling back to default profiles: default
+20:05:53.983 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@108fd5d5, org.springframework.security.web.context.SecurityContextPersistenceFilter@4bdbfbc6, org.springframework.security.web.header.HeaderWriterFilter@22f0e329, org.springframework.security.web.authentication.logout.LogoutFilter@2dbc66f0, org.springframework.security.web.session.ConcurrentSessionFilter@2f0e7008, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@5978ba12, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@4d2f8ee7, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@65a3d7c9, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@4125bc3c, org.springframework.security.web.session.SessionManagementFilter@3b72860c, org.springframework.security.web.access.ExceptionTranslationFilter@5776a9f8, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@2b98c310]
+20:05:54.728 [main] INFO  c.e.a.AssignmentApplicationTest - Started AssignmentApplicationTest in 2.773 seconds (JVM running for 4.267)
+20:05:55.429 [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+20:05:55.429 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+20:05:55.429 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+20:05:55.555 [main] INFO  c.e.a.controller.LoginController - User logged in successfully
+20:05:55.603 [main] ERROR c.e.a.controller.StatementController - Invalid date range: from date should be before to date
+20:05:55.603 [main] ERROR c.e.a.controller.StatementController - Invalid account ID
+20:05:55.619 [main] ERROR c.e.a.controller.StatementController - Invalid amount range: To amount should be geater than  from amount
+20:10:12.860 [main] INFO  c.e.a.AssignmentApplicationTest - Starting AssignmentApplicationTest using Java 17.0.8 on Khaoula with PID 17228 (started by jbeli in C:\Users\jbeli\OneDrive\Documents\assignmentNew\Assignment\assignment)
+20:10:12.860 [main] INFO  c.e.a.AssignmentApplicationTest - No active profile set, falling back to default profiles: default
+20:10:16.078 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@108fd5d5, org.springframework.security.web.context.SecurityContextPersistenceFilter@4bdbfbc6, org.springframework.security.web.header.HeaderWriterFilter@22f0e329, org.springframework.security.web.authentication.logout.LogoutFilter@2dbc66f0, org.springframework.security.web.session.ConcurrentSessionFilter@2f0e7008, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@5978ba12, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@4d2f8ee7, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@65a3d7c9, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@4125bc3c, org.springframework.security.web.session.SessionManagementFilter@3b72860c, org.springframework.security.web.access.ExceptionTranslationFilter@5776a9f8, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@2b98c310]
+20:10:17.563 [main] INFO  c.e.a.AssignmentApplicationTest - Started AssignmentApplicationTest in 5.376 seconds (JVM running for 7.683)
+20:10:19.523 [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+20:10:19.534 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+20:10:19.536 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 1 ms
+20:10:19.962 [main] INFO  c.e.a.controller.LoginController - User logged in successfully
+20:10:20.078 [main] ERROR c.e.a.controller.StatementController - Invalid date range: from date should be before to date
+20:10:20.101 [main] ERROR c.e.a.controller.StatementController - Invalid account ID
+20:10:20.139 [main] ERROR c.e.a.controller.StatementController - Invalid amount range: To amount should be geater than  from amount
+20:33:40.200 [main] INFO  c.e.a.AssignmentApplicationTest - Starting AssignmentApplicationTest using Java 17.0.5 on Khaoula with PID 12272 (started by jbeli in C:\Users\jbeli\OneDrive\Documents\assignmentNew\Assignment\assignment)
+20:33:40.201 [main] INFO  c.e.a.AssignmentApplicationTest - No active profile set, falling back to default profiles: default
+20:33:41.691 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@31c31fa6, org.springframework.security.web.context.SecurityContextPersistenceFilter@23a9400c, org.springframework.security.web.header.HeaderWriterFilter@2cdcedef, org.springframework.security.web.authentication.logout.LogoutFilter@6e161cea, org.springframework.security.web.session.ConcurrentSessionFilter@75693526, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@4131f6db, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@768f2398, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@1a3e8b68, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@70ebaa1e, org.springframework.security.web.session.SessionManagementFilter@43d2c8e3, org.springframework.security.web.access.ExceptionTranslationFilter@237824b0, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@5a5024eb]
+20:33:42.484 [main] INFO  c.e.a.AssignmentApplicationTest - Started AssignmentApplicationTest in 2.799 seconds (JVM running for 4.64)
+20:33:43.227 [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+20:33:43.227 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+20:33:43.227 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+20:33:43.394 [main] INFO  c.e.a.controller.LoginController - User logged in successfully
+20:33:43.440 [main] ERROR c.e.a.controller.StatementController - Invalid date range: from date should be before to date
+20:33:43.448 [main] ERROR c.e.a.controller.StatementController - Invalid account ID
+20:33:43.467 [main] ERROR c.e.a.controller.StatementController - Invalid amount range: To amount should be geater than  from amount
+20:36:09.235 [main] INFO  c.e.a.AssignmentApplicationTest - Starting AssignmentApplicationTest using Java 17.0.5 on Khaoula with PID 19724 (started by jbeli in C:\Users\jbeli\OneDrive\Documents\assignmentNew\Assignment\assignment)
+20:36:09.236 [main] INFO  c.e.a.AssignmentApplicationTest - No active profile set, falling back to default profiles: default
+20:36:10.732 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@70ebaa1e, org.springframework.security.web.context.SecurityContextPersistenceFilter@793248d, org.springframework.security.web.header.HeaderWriterFilter@43778d6d, org.springframework.security.web.authentication.logout.LogoutFilter@673e1cf2, org.springframework.security.web.session.ConcurrentSessionFilter@39a1c200, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@5cdf61d, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@1f4fa465, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@5935eb9c, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@3d5e3f58, org.springframework.security.web.session.SessionManagementFilter@8bb5c2a, org.springframework.security.web.access.ExceptionTranslationFilter@52a8f789, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@476dc0af]
+20:36:11.392 [main] INFO  c.e.a.AssignmentApplicationTest - Started AssignmentApplicationTest in 2.63 seconds (JVM running for 4.144)
+20:36:12.114 [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+20:36:12.114 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+20:36:12.115 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+20:36:12.269 [main] INFO  c.e.a.controller.LoginController - User logged in successfully
+20:36:12.315 [main] ERROR c.e.a.controller.StatementController - Invalid date range: from date should be before to date
+20:36:12.321 [main] ERROR c.e.a.controller.StatementController - Invalid account ID
+20:36:12.338 [main] ERROR c.e.a.controller.StatementController - Invalid amount range: To amount should be geater than  from amount
+20:38:47.011 [main] INFO  c.e.a.AssignmentApplicationTest - Starting AssignmentApplicationTest using Java 17.0.5 on Khaoula with PID 3684 (started by jbeli in C:\Users\jbeli\OneDrive\Documents\assignmentNew\Assignment\assignment)
+20:38:47.012 [main] INFO  c.e.a.AssignmentApplicationTest - No active profile set, falling back to default profiles: default
+20:38:48.485 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@349686e8, org.springframework.security.web.context.SecurityContextPersistenceFilter@3f2feab7, org.springframework.security.web.header.HeaderWriterFilter@39a1c200, org.springframework.security.web.authentication.logout.LogoutFilter@649a6d88, org.springframework.security.web.session.ConcurrentSessionFilter@33efa7d4, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@3f7a7ce6, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@6d7d0946, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@27a23d87, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@5c3e7128, org.springframework.security.web.session.SessionManagementFilter@352d3749, org.springframework.security.web.access.ExceptionTranslationFilter@456c53a, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@7164e54]
+20:38:49.101 [main] INFO  c.e.a.AssignmentApplicationTest - Started AssignmentApplicationTest in 2.575 seconds (JVM running for 4.162)
+20:38:49.808 [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+20:38:49.808 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+20:38:49.808 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+20:38:49.948 [main] INFO  c.e.a.controller.LoginController - User logged in successfully
+20:38:49.995 [main] ERROR c.e.a.controller.StatementController - Invalid date range: from date should be before to date
+20:38:50.001 [main] ERROR c.e.a.controller.StatementController - Invalid account ID
+20:38:50.014 [main] ERROR c.e.a.controller.StatementController - Invalid amount range: To amount should be geater than  from amount
+20:39:27.229 [main] INFO  c.e.a.AssignmentApplicationTest - Starting AssignmentApplicationTest using Java 17.0.5 on Khaoula with PID 24436 (started by jbeli in C:\Users\jbeli\OneDrive\Documents\assignmentNew\Assignment\assignment)
+20:39:27.231 [main] INFO  c.e.a.AssignmentApplicationTest - No active profile set, falling back to default profiles: default
+20:39:28.694 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@3a5c6009, org.springframework.security.web.context.SecurityContextPersistenceFilter@fc6cac6, org.springframework.security.web.header.HeaderWriterFilter@6408a8ac, org.springframework.security.web.authentication.logout.LogoutFilter@178617da, org.springframework.security.web.session.ConcurrentSessionFilter@6731b6bd, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@615b1baf, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@4b99f2ed, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@356cb230, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@2c4e63b3, org.springframework.security.web.session.SessionManagementFilter@39a1c200, org.springframework.security.web.access.ExceptionTranslationFilter@634d56eb, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@5d94c50e]
+20:39:29.375 [main] INFO  c.e.a.AssignmentApplicationTest - Started AssignmentApplicationTest in 2.612 seconds (JVM running for 4.167)
+20:39:30.119 [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+20:39:30.119 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+20:39:30.120 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+20:39:30.262 [main] INFO  c.e.a.controller.LoginController - User logged in successfully
+20:39:30.314 [main] ERROR c.e.a.controller.StatementController - Invalid date range: from date should be before to date
+20:39:30.322 [main] ERROR c.e.a.controller.StatementController - Invalid account ID
+20:39:30.338 [main] ERROR c.e.a.controller.StatementController - Invalid amount range: To amount should be geater than  from amount
+20:41:14.338 [main] INFO  c.e.a.AssignmentApplicationTest - Starting AssignmentApplicationTest using Java 17.0.5 on Khaoula with PID 22188 (started by jbeli in C:\Users\jbeli\OneDrive\Documents\assignmentNew\Assignment\assignment)
+20:41:14.340 [main] INFO  c.e.a.AssignmentApplicationTest - No active profile set, falling back to default profiles: default
+20:41:15.839 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@48b744fd, org.springframework.security.web.context.SecurityContextPersistenceFilter@3bf4b018, org.springframework.security.web.header.HeaderWriterFilter@1f4fa465, org.springframework.security.web.authentication.logout.LogoutFilter@62eb918, org.springframework.security.web.session.ConcurrentSessionFilter@6d7d0946, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@1067192a, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@2e9f5499, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@7acf07b2, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@2ef3efcc, org.springframework.security.web.session.SessionManagementFilter@356cb230, org.springframework.security.web.access.ExceptionTranslationFilter@30dd23e2, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@13da6bc9]
+20:41:16.556 [main] INFO  c.e.a.AssignmentApplicationTest - Started AssignmentApplicationTest in 2.701 seconds (JVM running for 4.288)
+20:41:17.369 [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+20:41:17.370 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+20:41:17.370 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+20:41:17.530 [main] INFO  c.e.a.controller.LoginController - User logged in successfully
+20:41:17.587 [main] ERROR c.e.a.controller.StatementController - Invalid date range: from date should be before to date
+20:41:17.596 [main] ERROR c.e.a.controller.StatementController - Invalid account ID
+20:41:17.611 [main] ERROR c.e.a.controller.StatementController - Invalid amount range: To amount should be geater than  from amount
+20:42:43.013 [main] INFO  c.e.a.AssignmentApplicationTest - Starting AssignmentApplicationTest using Java 17.0.5 on Khaoula with PID 5980 (started by jbeli in C:\Users\jbeli\OneDrive\Documents\assignmentNew\Assignment\assignment)
+20:42:43.015 [main] INFO  c.e.a.AssignmentApplicationTest - No active profile set, falling back to default profiles: default
+20:42:44.493 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@3a5c6009, org.springframework.security.web.context.SecurityContextPersistenceFilter@fc6cac6, org.springframework.security.web.header.HeaderWriterFilter@6408a8ac, org.springframework.security.web.authentication.logout.LogoutFilter@178617da, org.springframework.security.web.session.ConcurrentSessionFilter@6731b6bd, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@615b1baf, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@4b99f2ed, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@356cb230, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@2c4e63b3, org.springframework.security.web.session.SessionManagementFilter@39a1c200, org.springframework.security.web.access.ExceptionTranslationFilter@634d56eb, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@5d94c50e]
+20:42:45.207 [main] INFO  c.e.a.AssignmentApplicationTest - Started AssignmentApplicationTest in 2.658 seconds (JVM running for 4.293)
+20:42:45.953 [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+20:42:45.954 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+20:42:45.954 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+20:42:46.108 [main] INFO  c.e.a.controller.LoginController - User logged in successfully
+20:42:46.158 [main] ERROR c.e.a.controller.StatementController - Invalid date range: from date should be before to date
+20:42:46.169 [main] ERROR c.e.a.controller.StatementController - Invalid account ID
+20:42:46.186 [main] ERROR c.e.a.controller.StatementController - Invalid amount range: To amount should be geater than  from amount
+20:44:44.962 [main] INFO  c.e.a.AssignmentApplicationTest - Starting AssignmentApplicationTest using Java 17.0.8 on Khaoula with PID 13992 (started by jbeli in C:\Users\jbeli\OneDrive\Documents\assignmentNew\Assignment\assignment)
+20:44:44.962 [main] INFO  c.e.a.AssignmentApplicationTest - No active profile set, falling back to default profiles: default
+20:44:47.547 [main] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@13976c57, org.springframework.security.web.context.SecurityContextPersistenceFilter@4dc5b887, org.springframework.security.web.header.HeaderWriterFilter@4198921f, org.springframework.security.web.authentication.logout.LogoutFilter@4d2f8ee7, org.springframework.security.web.session.ConcurrentSessionFilter@6c569caf, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@68c3aa38, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@524418a2, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@1c80f8dd, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@10b7b5f0, org.springframework.security.web.session.SessionManagementFilter@78e34499, org.springframework.security.web.access.ExceptionTranslationFilter@56017274, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@1e733bb5]
+20:44:48.599 [main] INFO  c.e.a.AssignmentApplicationTest - Started AssignmentApplicationTest in 4.324 seconds (JVM running for 6.405)
+20:44:49.791 [main] INFO  o.s.mock.web.MockServletContext - Initializing Spring TestDispatcherServlet ''
+20:44:49.791 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+20:44:49.791 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 0 ms
+20:44:49.996 [main] INFO  c.e.a.controller.LoginController - User logged in successfully
+20:44:50.059 [main] ERROR c.e.a.controller.StatementController - Invalid date range: from date should be before to date
+20:44:50.059 [main] ERROR c.e.a.controller.StatementController - Invalid account ID
+20:44:50.090 [main] ERROR c.e.a.controller.StatementController - Invalid amount range: To amount should be geater than  from amount
